@@ -36,19 +36,19 @@ author:
 # Navigation (2nd level links supported)
 nav:
   Home:           
-    - '/blog/'
+    - '/'
   Index:           
-    - '/blog/categories/'
+    - '/categories/'
   Tags:
-    - '/blog/tags/'
+    - '/tags/'
   About:          
     - '/about/'
 #  Github Project: 
 #    - 'http://codinfox.github.io/'
 
 # Where are tags and categories displayed
-tag_page: '/blog/tags/'
-category_page: '/blog/categories/'
+tag_page: '/tags/'
+category_page: '/categories/'
 
 # Puglins
 mathjax: true # whether support mathjax
