@@ -36,11 +36,11 @@ author:
 # Navigation (2nd level links supported)
 nav:
   Home:           
-    - '/'
+    - '/blog/'
   Index:           
-    - '/categories/'
+    - '/blog/categories/'
   Tags:
-    - { Tags: '/blog/tags/' }
+    - '/blog/tags/'
   About:          
     - '/about/'
 #  Github Project: 
