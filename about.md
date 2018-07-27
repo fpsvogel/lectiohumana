@@ -3,28 +3,46 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+> Certis ingeniis immorari et innutriri oportet, si velis aliquid trahere quod in animo fideliter sedeat. Nusquam est qui ubique est. (*Epistulae Morales* 1.2)
+
+> You must spend time with certain thinkers and feed on them only, if you want to draw out something that will stick in your mind. If you are everywhere, you are nowhere.
+
+I skim online too much. So I cultivate deeper reading with the help of this blog, where I write thoughts on juicy excerpts.
+
+### What does "lectio humana" mean?
+
+Just a play on *lectio divina* with a nod to the humanists, whose writings I'm spending time with.
+
+### Why all the Latin?
+
+Because I love it. Also, it's good to seek wisdom in other worlds: in the case of Latin, the pre-industrial Graeco-Roman tradition.
+
+### Why all the Christian stuff? I thought you said humanists.
+
+I mean the humanists of the Renaissance, and their forebears and successors. If you think humanism is just another name for atheism, please read these:
+
+* [Christian Humanism's Manifesto](https://www.tikkun.org/nextgen/christian-humanisms-manifesto-by-roger-e-olson) by Roger Olson
+* [Christianity and the Humanist Tradition](http://www.theimaginativeconservative.org/2013/06/christianity-and-the-humanist-tradition.html) by Christopher Dawson
+* [Why Christians should believe in humanism, and humanists in Christianity](https://www.theosthinktank.co.uk/cmsfiles/archive/files/Christian%20Humanism%20FINAL%20combined.pdf) by Theos
+
+### Who are you?
+
+{% if site.author.contact %}
+{% assign len = site.author.contact | size %}
+{% assign current_index = 0 %}
+<div class="sidebar-personal-info-section">
+<p> Contact me: 
+{% for contact in site.author.contact %}
+{% assign iconname = contact[0] %}
+{% if contact[0] == 'email' %}
+{% assign iconname = 'envelope' %}
+{% endif %}
+<a href="{{ contact[1] }}">
+  <i class="fa fa-{{ iconname }}" aria-hidden="true"></i>
+</a>
+{% assign current_index = current_index | plus: 1 %}
+{% if current_index != len %}|{% endif %}
+{% endfor %}
 </p>
-
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
-
-There are currently two themes built on Poole:
-
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
-
-Learn more and contribute on [GitHub](https://github.com/poole).
-
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+</div>
+{% endif %}
