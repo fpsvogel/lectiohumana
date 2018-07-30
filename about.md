@@ -11,7 +11,7 @@ I skim online too much. So I cultivate deeper reading with the help of this blog
 
 ### What does "lectio humana" mean?
 
-"Human reading," a play on *lectio divina* with a nod to the humanists, whose writings I'm spending time with.
+"Human reading," a play on *lectio divina* with a nod to the humanists, whose work I'm spending time with.
 
 ### Why all the Latin?
 
