@@ -7,7 +7,7 @@ tags: [change, learning, humility, pride, politics, church, community, power]
 comments: false
 ---
 
-https://www.youtube.com/embed/t966lVrHEzo?start=2472&end=2685
+{% include video.html url="https://www.youtube.com/embed/t966lVrHEzo?start=2472&end=2685" width="560" height="315" %}
 
 Many communities are based around beliefs held in common: political parties and churches, for example. But often these beliefs become not the honest conviction of individuals, but simply a means of participation in the group, a token that you're in. Or as Peterson would say, the language concerning these beliefs becomes instrumental. And so the beliefs ossify as fewer and fewer members think about them, the living tradition becomes dead, and members relax in the shade of a set of ready-made answers to life, now and then manipulated by a clever person who uses the group's beliefs to gain trust with them and power for its own sake.
 
