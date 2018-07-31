@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Peterson: Personality"
+title: "Jordan Peterson: Personality"
 subtitle: "Listen and learn."
-category: "Peterson: Personality 2015"
+category: "Jordan Peterson: Personality 2015"
 tags: [change, learning, humility, pride, politics, church, community, power]
 comments: false
 ---
