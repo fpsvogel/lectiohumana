@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-> Certis ingeniis immorari et innutriri oportet, si velis aliquid trahere quod in animo fideliter sedeat. Nusquam est qui ubique est. (Seneca, *Epistulae Morales* 1.2)
+> Certis ingeniis immorari et innutriri oportet, si velis aliquid trahere quod in animo fideliter sedeat. Nusquam est qui ubique est. (*Epistulae Morales* 1.2)
 
 > You must spend time with certain thinkers and feed on them only, if you want to draw out something that will stick in your mind. If you are everywhere, you are nowhere.
 
@@ -11,7 +11,11 @@ I skim online too much. So I cultivate deeper reading with the help of this blog
 
 ### What does "lectio humana" mean?
 
+<<<<<<< HEAD
 "Human reading," a play on *lectio divina* with a nod to the humanists, whose work I'm spending time with.
+=======
+Just a play on *lectio divina* with a nod to the humanists, whose writings I'm spending time with.
+>>>>>>> parent of c153104... 2018-07-27
 
 ### Why all the Latin?
 
@@ -23,7 +27,7 @@ I mean the humanists of the Renaissance, and their forebears and successors. If 
 
 * [Christian Humanism's Manifesto](https://www.tikkun.org/nextgen/christian-humanisms-manifesto-by-roger-e-olson) by Roger Olson
 * [Christianity and the Humanist Tradition](http://www.theimaginativeconservative.org/2013/06/christianity-and-the-humanist-tradition.html) by Christopher Dawson
-* [Why Christians should believe in humanism, and humanists in Christianity](https://www.theosthinktank.co.uk/cmsfiles/archive/files/Christian%20Humanism%20FINAL%20combined.pdf)
+* [Why Christians should believe in humanism, and humanists in Christianity](https://www.theosthinktank.co.uk/cmsfiles/archive/files/Christian%20Humanism%20FINAL%20combined.pdf) by Theos
 
 ### Who are you?
 
@@ -37,7 +41,7 @@ I mean the humanists of the Renaissance, and their forebears and successors. If 
 {% if contact[0] == 'email' %}
 {% assign iconname = 'envelope' %}
 {% endif %}
-<a href="{{ contact[1] }}" style="text-decoration: none">
+<a href="{{ contact[1] }}">
   <i class="fa fa-{{ iconname }}" aria-hidden="true"></i>
 </a>
 {% assign current_index = current_index | plus: 1 %}
