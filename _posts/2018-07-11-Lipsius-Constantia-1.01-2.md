@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Lipsius: De Constantia 1.1-2"
-subtitle: "Honesty is the best policy."
+subtitle: "Honesty is the best policy"
 category: "Lipsius: De Constantia"
 tags: [honesty, moods, persona, community, fitting in, running away]
 comments: false
