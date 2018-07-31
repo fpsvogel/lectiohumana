@@ -3,7 +3,7 @@
   position: relative;
   width: 100%;
   height: 0;
-  margin-bottom: 0.5rem;
+  margin-bottom: 1rem;
   margin-top: 1rem;
   overflow: hidden;
 }
@@ -18,7 +18,7 @@
 {% assign width = include.width | times: 1.0 %}
 {% assign height = include.height | times: 1.0 %}
 {% assign paddingBottom = height | divided_by: width | times: 100 %}
-{% if include.width != '' %}
+{% if include.size != '' %}
   <div style="width: {{include.size}}; margin:0 auto;">
 {% else %}
   <div>

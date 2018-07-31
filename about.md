@@ -34,11 +34,13 @@ I mean the humanists of the Renaissance, and their forebears and successors. If 
 <p> Contact me: 
 {% for contact in site.author.contact %}
 {% assign iconname = contact[0] %}
+{% assign fa = 'fab fa' %}
 {% if contact[0] == 'email' %}
 {% assign iconname = 'envelope' %}
+{% assign fa = 'fas fa' %}
 {% endif %}
 <a href="{{ contact[1] }}" style="text-decoration: none">
-  <i class="fa fa-{{ iconname }}" aria-hidden="true"></i>
+  <i class="{{ fa }}-{{ iconname }}" aria-hidden="true"></i>
 </a>
 {% assign current_index = current_index | plus: 1 %}
 {% if current_index != len %}|{% endif %}
