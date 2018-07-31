@@ -11,8 +11,7 @@
     font-size: .8rem;
 
 	h1 { font-size: 1.4rem; }
-    h2 { 
-      margin: 2em 0 1em 0;
+    h2 {
       font-size: 1.0rem; 
     }
     h3, h4, h5, h6 {
@@ -34,8 +33,9 @@
   }
   
   .post-subtitle {
-    margin-top: -.5rem;
+    margin-top: 0rem;
 	margin-bottom: 0rem;
+	color: #515151;
   }
 
   .post-more {
