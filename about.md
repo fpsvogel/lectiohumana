@@ -27,4 +27,4 @@ I mean the humanists of the Renaissance, and their forebears and successors. If 
 
 ### Who are you?
 
-{% include.contact text="Email me / See my reading / See my profile:" %}
+{% include contact.html text="Email me / See my reading / See my profile:" %}
