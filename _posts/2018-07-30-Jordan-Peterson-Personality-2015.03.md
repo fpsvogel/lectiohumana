@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Jordan Peterson: Personality and its Transformations"
-subtitle: "Listen and learn."
+subtitle: "Listen and learn"
 category: "Peterson: Personality 2015"
 tags: [change, learning, humility, pride, politics, church, community, power]
 comments: false

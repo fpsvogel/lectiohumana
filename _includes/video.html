@@ -19,7 +19,7 @@
 {% assign height = include.height | times: 1.0 %}
 {% assign paddingBottom = height | divided_by: width | times: 100 %}
 {% if include.size != '' %}
-  <div style="width: {{include.size}}; margin:0 auto;">
+  <div style="width: {{ include.size }}; margin:0 auto;">
 {% else %}
   <div>
 {% endif %}

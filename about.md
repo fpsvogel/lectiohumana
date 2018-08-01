@@ -27,24 +27,4 @@ I mean the humanists of the Renaissance, and their forebears and successors. If 
 
 ### Who are you?
 
-{% if site.author.contact %}
-{% assign len = site.author.contact | size %}
-{% assign current_index = 0 %}
-<div class="sidebar-personal-info-section">
-<p> Contact me: 
-{% for contact in site.author.contact %}
-{% assign iconname = contact[0] %}
-{% assign fa = 'fab fa' %}
-{% if contact[0] == 'email' %}
-{% assign iconname = 'envelope' %}
-{% assign fa = 'fas fa' %}
-{% endif %}
-<a href="{{ contact[1] }}" style="text-decoration: none">
-  <i class="{{ fa }}-{{ iconname }}" aria-hidden="true"></i>
-</a>
-{% assign current_index = current_index | plus: 1 %}
-{% if current_index != len %}|{% endif %}
-{% endfor %}
-</p>
-</div>
-{% endif %}
+{% include.contact text="Email me / See my reading / See my profile:" %}
