@@ -1,10 +1,11 @@
 # Site Info
 title: Lectio Humana
 tagline: 'Lectio Humana: Listening to the humanists.'
-description: 'Daily readings of humanists. Latin, the Renaissance, things classical and Christian, and Jordan Peterson included.'
+description: 'Daily readings of humanists. Latin, things classical and Christian, and Jordan Peterson included.'
 # baseurl: "/lanyon"
 url: http://fps-vogel.github.io/read
 logo: '/public/logo.png'
+ogimage: '/public/img/humanists.png'
 
 # Site configurations
 gems:
@@ -27,8 +28,8 @@ author:
   name: Felipe Vogel
   contact:
     email:     http://scr.im/felipevogel
-    linkedin:  https://www.linkedin.com/in/vogelfelipe
     goodreads: https://www.goodreads.com/user/show/51351645-felipe-vogel
+    linkedin:  https://www.linkedin.com/in/vogelfelipe
 #    github:    https://github.com/codinfox
     # facebook:  <hide>
 #    twitter:   https://twitter.com/Li_Zhihao
