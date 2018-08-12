@@ -5,10 +5,9 @@ title: Blog
 
 <div class="posts">
   {% for post in paginator.posts %}
-  {% assign posturl = site.baseurl + post.url %}
   <div class="post">
     <h1 class="post-title">
-      <a href="{{ posturl }}">
+      <a href="{{ site.baseurl }}{{ post.url }}">
         {{ post.subtitle }}
       </a>
     </h1>
@@ -26,14 +25,14 @@ title: Blog
     <article>
 	
 	<div class="sidebar-personal-info-section">
-	<p><h2 class="post-share">Share:&nbsp;&nbsp;
-	<a href="https://www.facebook.com/sharer/sharer.php?u={{ posturl }}" style="text-decoration: none; font-size: 1.2rem">
+	<p><h2 class="post-share">Share:&nbsp;
+	<a href="https://www.facebook.com/sharer/sharer.php?u={{ site.url }}{{ post.url }}" style="text-decoration: none; font-size: 1.2rem">
 	  <i class="fab fa-facebook" aria-hidden="true"></i>
 	</a>&nbsp;|&nbsp;
-	<a href="https://twitter.com/home?status={{ post.title }}{{ posturl }}" style="text-decoration: none; font-size: 1.2rem">
+	<a href="https://twitter.com/home?status={{ post.title }}{{ site.url }}{{ post.url }}" style="text-decoration: none; font-size: 1.2rem">
 	  <i class="fab fa-twitter" aria-hidden="true"></i>
 	</a>&nbsp;|&nbsp;
-	<a href="http://www.reddit.com/submit?url={{ posturl }}&title={{ post.title }}" style="text-decoration: none; font-size: 1.2rem">
+	<a href="http://www.reddit.com/submit?url={{ site.url }}{{ post.url }}&title={{ post.title }}" style="text-decoration: none; font-size: 1.2rem">
 	  <i class="fab fa-reddit" aria-hidden="true"></i>
 	</a>
 	</h2>
