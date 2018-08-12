@@ -1,11 +1,8 @@
 ---
 layout: post
-author: "Erasmus"
-work: "Mark"
-locus: "1:22-44"
-title: "{{ page.author }}: {{ page.work }} {{ page.locus }}"
+title: "Erasmus: Mark 1:22-44"
 subtitle: "Our demons and leprosy"
-category: "{{ page.author }}: {{ page.work }}"
+category: "Erasmus: Mark"
 tags: [vices, criticism, happiness, highest good, self-improvement]
 comments: false
 ---
