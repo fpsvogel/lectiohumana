@@ -23,7 +23,22 @@ title: Blog
     <article>
       {{ post.excerpt | markdownify }}
     <article>
-	{% include share.html %}
+	
+	<div class="sidebar-personal-info-section">
+	<p><h2 class="post-share">Share:  </h2><h2 class="post-share-icons">
+	<a href="https://www.facebook.com/sharer/sharer.php?u={{ post.url }}" style="text-decoration: none">
+	  <i class="fab fa-facebook" aria-hidden="true"></i>
+	</a> |
+	<a href="https://twitter.com/home?status={{ post.title }}{{ post.url }}" style="text-decoration: none">
+	  <i class="fab fa-twitter" aria-hidden="true"></i>
+	</a> |
+	<a href="http://www.reddit.com/submit?url={{ post.url }}&title={{ post.title }}" style="text-decoration: none">
+	  <i class="fab fa-reddit" aria-hidden="true"></i>
+	</a>
+	</h2>
+	</p>
+	</div>
+	
     <div class="post-more">
       {% if site.disqus_short_name %}
       <a href="{{ site.baseurl }}{{ post.url }}#disqus_thread"> <i class="fa fa-comments" aria-hidden="true"></i>Comment</a>&nbsp;

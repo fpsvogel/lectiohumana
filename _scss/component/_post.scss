@@ -32,8 +32,15 @@
   }
   
   .post-share {
+    display: inline-block;
 	color: #717171;
 	font-size: 1.0rem;
+  }
+  
+  .post-share-icons {
+    display: inline-block;
+	color: #717171;
+	font-size: 1.4rem;
   }
 
   .post-more {
