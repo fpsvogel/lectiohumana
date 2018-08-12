@@ -6,6 +6,7 @@ description: 'Daily readings of humanists. Latin, things classical and Christian
 url: http://fps-vogel.github.io/read
 logo: '/public/logo.png'
 ogimage: '/public/img/humanists.png'
+permalink: /:title/
 
 # Site configurations
 gems:
