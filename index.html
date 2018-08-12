@@ -25,14 +25,14 @@ title: Blog
     <article>
 	
 	<div class="sidebar-personal-info-section">
-	<p><h2 class="post-share">Share:  </h2><h2 class="post-share-icons">
-	<a href="https://www.facebook.com/sharer/sharer.php?u={{ post.url }}" style="text-decoration: none">
+	<p><h2 class="post-share">Share:  
+	<a href="https://www.facebook.com/sharer/sharer.php?u={{ site.baseurl }}{{ post.url }}" style="text-decoration: none; font-size: 1.2rem">
 	  <i class="fab fa-facebook" aria-hidden="true"></i>
 	</a> |
-	<a href="https://twitter.com/home?status={{ post.title }}{{ post.url }}" style="text-decoration: none">
+	<a href="https://twitter.com/home?status={{ post.title }}{{ site.baseurl }}{{ post.url }}" style="text-decoration: none; font-size: 1.2rem">
 	  <i class="fab fa-twitter" aria-hidden="true"></i>
 	</a> |
-	<a href="http://www.reddit.com/submit?url={{ post.url }}&title={{ post.title }}" style="text-decoration: none">
+	<a href="http://www.reddit.com/submit?url={{ site.baseurl }}{{ post.url }}&title={{ post.title }}" style="text-decoration: none; font-size: 1.2rem">
 	  <i class="fab fa-reddit" aria-hidden="true"></i>
 	</a>
 	</h2>
