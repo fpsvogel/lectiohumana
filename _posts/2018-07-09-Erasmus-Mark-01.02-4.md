@@ -3,6 +3,7 @@ layout: post
 title: "Erasmus: Mark 1:2-4"
 subtitle: "Go to the desert!"
 category: "Erasmus: Mark"
+author: "Erasmus"
 tags: [desert, solitude, stillness, distractions, habit]
 comments: false
 ---

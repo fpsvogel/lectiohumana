@@ -3,6 +3,7 @@ layout: post
 title: "Erasmus: Mark 1:10-12"
 subtitle: "The meek and wild Spirit"
 category: "Erasmus: Mark"
+author: "Erasmus"
 tags: [baptism, Holy Spirit, Satan, peace, war, weakness, power]
 comments: false
 ---

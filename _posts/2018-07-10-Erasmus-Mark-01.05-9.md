@@ -3,6 +3,7 @@ layout: post
 title: "Erasmus: Mark 1:5-9"
 subtitle: "Down to the river"
 category: "Erasmus: Mark"
+author: "Erasmus"
 tags: [repentance, self-improvement, anger, hatred, work, suffering, weakness]
 comments: false
 ---

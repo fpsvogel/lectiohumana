@@ -3,6 +3,7 @@ layout: post
 title: "Lipsius: De Constantia 1.3"
 subtitle: "No escape from yourself"
 category: "Lipsius: De Constantia"
+author: "Lipsius"
 tags: [suffering, distractions, entertainment, running away, steadiness, deal with it, war, addiction, tech]
 comments: false
 ---

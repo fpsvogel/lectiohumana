@@ -3,6 +3,7 @@ layout: post
 title: "Johnson: The Rambler, 24 Mar. 1750"
 subtitle: "Hopes and dreams"
 category: "Johnson: Essays"
+author: "Samuel Johnson"
 tags: [work, weakness, suffering, hope, imagination, journey, entertainment, distractions]
 comments: false
 ---

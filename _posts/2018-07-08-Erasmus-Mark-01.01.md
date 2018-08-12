@@ -3,6 +3,7 @@ layout: post
 title: "Erasmus: Mark 1:1"
 subtitle: "The meaning of the gospel"
 category: "Erasmus: Mark"
+author: "Erasmus"
 tags: [happiness, gospel, tech, deceit]
 comments: false
 ---
