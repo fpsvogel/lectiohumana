@@ -6,6 +6,7 @@ category: "Peterson: Personality 2015"
 author: "Jordan Peterson"
 tags: [change, learning, humility, pride, politics, church, community, power]
 comments: false
+permalink: /:title
 ---
 
 {% include video.html url="https://www.youtube.com/embed/t966lVrHEzo?start=2472&end=2685" width="560" height="315" size="70%" %}

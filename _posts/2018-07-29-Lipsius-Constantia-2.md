@@ -6,6 +6,7 @@ category: "Lipsius: De Constantia"
 author: "Lipsius"
 tags: [suffering, distractions, entertainment, running away, steadiness, deal with it, war, addiction, tech]
 comments: false
+permalink: /:title
 ---
 
 > Aberratio haec aliqua a malis est, non fuga. ... Quid autem istud me iuvat, si lucem paullisper video, in arctiorem mox carcerem compingendus? Ita profecto est. Insidiantur animo externae hae omnes voluptates, et specie iuvandi magis laedunt. ... Non diu enim a se aberrat animus: sed vel invitus domum mox compellitur, et in vetus contubernium malorum. ... inter media gaudia videbis aliquid sive audies, quod sensum refricet tui doloris. Aut si paullisper quiesces: brevis ille velut somnus erit, et mox experrecto tibi eadem aut maior febris. Crescunt enim interpellatae quaedam cupidines, et vires capiunt ex intervallo.

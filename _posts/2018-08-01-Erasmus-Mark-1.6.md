@@ -4,9 +4,9 @@ title: "Erasmus: Mark 1:22-44"
 subtitle: "Our demons and our leprosy"
 category: "Erasmus: Mark"
 author: "Erasmus"
-permalink: /blog/:title
 tags: [vices, criticism, happiness, highest good, self-improvement]
 comments: false
+permalink: /:title
 ---
 
 > An non pessimo Daemonio obnoxius est, quem totum possidet ambitio, avaritia, livor, odium, libido, ceteraeque cupiditates impiae? Huiusmodi qui sunt, non ferunt sermonem Evangelicum, sed vociferantur: Quid tibi nobiscum est, Iesu? Venisti ut perderes nos? Etenim quos possidet huius mundi Spiritus, perdi se credunt, quoties coguntur in ea relinquere, in quibus sibi falsam constituere felicitatem. ... Maius autem miraculum est, ex ambitioso modestum, ex feroci tolerantem, ex libidinoso castum, ex rapaci liberalem reddere, quam corpus hominis ab impio Spiritu liberare. Sed illud magis admirantur homines, non quia mirabilius, sed quia cernatur oculis corporeis. (26-27)

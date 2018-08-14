@@ -6,6 +6,7 @@ category: "Erasmus: Mark"
 author: "Erasmus"
 tags: [happiness, gospel, tech, deceit]
 comments: false
+permalink: /:title
 ---
 
 > Cunctis mortalibus insitum est, ut felicitatem expetant. Hanc multi mundana quadam sapientia praepollentes, alii proditis legibus, alii traditis praeceptis recte vivendi, hactenus polliciti sunt. Sed quoniam homines erant, non valuerunt praestare, quod pollicebantur. Nec enim noverant, quaenam esset vera hominis felicitas, aut quibus in rebus sita. Proinde factum est, ut pro vera felicitate fallacem quandam felicitatis imaginem sint amplexi, et errorem suum in alios transfuderint, falsi simul et fallentes. (1.1)

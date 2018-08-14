@@ -6,6 +6,7 @@ category: "Lipsius: De Constantia"
 author: "Lipsius"
 tags: [honesty, moods, persona, community, fitting in, running away]
 comments: false
+permalink: /:title
 ---
 
 > Itaque non patria fugienda, Lipsi: sed Adfectus sunt: et firmandus ita formandusque hic animus, ut quies nobis in turbis sit et pax inter media arma. (1.1)

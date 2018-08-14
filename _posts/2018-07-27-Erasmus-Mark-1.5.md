@@ -6,6 +6,7 @@ category: "Erasmus: Mark""
 author: "Erasmus"
 tags: [war, Satan, exile, home, journey]
 comments: false
+permalink: /:title
 ---
 
 > Interim non oportet militem esse securum. Dedisti nomen Christo imperatori, renuntiasti Diabolo: accepisti auctoramentum ac donativum, velut arrhabonem tui salarii, Spiritum Sanctum, ad palmam oportet contendere. Ea non contingit oscitanti, arma capessas oportet, ne te hostis, qui nusquam non insidiatur, incautum atque inermem opprimat. Oppugnabit illico mundus, oppugnabit Satanas, oppugnabit te caro tua: semper pugnandum est, ut semper vincas. Neque enim prius erit finis pugnae, quam vitae: sed tamen quo saepius hostem tuum viceris, hoc et ille discedet a conflictu debilior, et tu robustior. (1.13)

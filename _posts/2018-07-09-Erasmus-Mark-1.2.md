@@ -6,6 +6,7 @@ category: "Erasmus: Mark"
 author: "Erasmus"
 tags: [desert, solitude, stillness, distractions, habit]
 comments: false
+permalink: /:title
 ---
 
 > Ioannes, iuxta Prophetarum oracula, praecursorem agebat, aqua tingens in deserto: non quod ipse ablueret peccata, sed quod suo baptismo invitaret ad poenitentiam vitae superioris, ut morbum suum agnoscentes, desiderarent eius adventum, qui solus baptizat Spiritu et igni. (1.4)

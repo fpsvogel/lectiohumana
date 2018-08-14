@@ -6,6 +6,7 @@ category: "Johnson: Essays"
 author: "Samuel Johnson"
 tags: [work, weakness, suffering, hope, imagination, journey, entertainment, distractions]
 comments: false
+permalink: /:title
 ---
 
 > The natural flights of the human mind are not from pleasure to pleasure, but from hope to hope.

@@ -6,6 +6,7 @@ category: "Erasmus: Mark"
 author: "Erasmus"
 tags: [repentance, self-improvement, anger, hatred, work, suffering, weakness]
 comments: false
+permalink: /:title
 ---
 
 > Iordanis enim sonat Hebraeis *fluvium iudicii*. Non iudicatur a Domino, qui seipsum iudicat. Hic est ille purificator fluvius, scatens e duobus fontibus, agnitione propriae iniustitiae, et recordatione bonitatis divinae. Hic est ille baptismus poenitentiae, flumen lacrimarum, ex intimis cordis venis aquas emittens amaras, sed acrimonia nitri abstergens omnes animae maculas. ... Propria benefacta commemorare, arrogantiae est: aliena mala referre, livoris est et malevolentiae, Propriam malitiam agnoscere, est Dei bonitatem glorificare. (1.5)

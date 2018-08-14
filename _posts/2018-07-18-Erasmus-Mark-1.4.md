@@ -6,6 +6,7 @@ category: "Erasmus: Mark"
 author: "Erasmus"
 tags: [baptism, Holy Spirit, Satan, peace, war, weakness, power]
 comments: false
+permalink: /:title
 ---
 
 > Satanae mundique spiritus reddit et amat animos elatos, tumidos, feroces: at Spiritus ille coelestis amat modestos, mites ac tranquillos. Nihil enim columba simplicius, aut a pugna raptuque alienius. (1.10)
