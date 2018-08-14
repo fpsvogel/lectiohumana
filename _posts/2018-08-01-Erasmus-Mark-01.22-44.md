@@ -1,9 +1,10 @@
 ---
 layout: post
 title: "Erasmus: Mark 1:22-44"
-subtitle: "Our demons and leprosy"
+subtitle: "Our demons and our leprosy"
 category: "Erasmus: Mark"
 author: "Erasmus"
+permalink: /blog/:title
 tags: [vices, criticism, happiness, highest good, self-improvement]
 comments: false
 ---
