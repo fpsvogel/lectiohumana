@@ -7,7 +7,7 @@ title: About
 
 > You must spend time with certain thinkers and feed on them only, if you want to draw out something that will stick in your mind. If you are everywhere, you are nowhere.
 
-I skim online too much. So I cultivate deeper reading with the help of this blog, where I write thoughts on juicy excerpts.
+Hi there! Some time ago I noticed that I think, speak, and behave rather superficially. That includes my reading. So I cultivate deeper reading with the help of this blog, where I write thoughts on juicy excerpts.
 
 ### What does "lectio humana" mean?
 

@@ -2,7 +2,7 @@
 layout: post
 title: "Erasmus: Mark 1:13-22"
 subtitle: "Soldier in exile"
-category: "Erasmus: Mark""
+category: "Erasmus: Mark"
 author: "Erasmus"
 tags: [war, Satan, exile, home, journey]
 comments: false
