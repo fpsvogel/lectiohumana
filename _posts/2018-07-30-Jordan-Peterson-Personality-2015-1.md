@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Jordan Peterson: Personality and its Transformations"
+title: "Jordan Peterson: Personality and its Transformations, Lecture 3"
 subtitle: "Listen and learn"
 category: "Peterson: Personality 2015"
 author: "Jordan Peterson"
