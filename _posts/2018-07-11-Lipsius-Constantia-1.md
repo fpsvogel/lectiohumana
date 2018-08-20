@@ -21,4 +21,4 @@ Easier said than done. But how can we thus prepare ourselves *with other people*
 
 Continuing our example, if I were to run away to a more congenial place where I fit in better, I still wouldn't fit in perfectly. There's no place on earth where anyone fits in perfectly because people are different, and the communal life of a group is never frictionless for any of its members, unless they've lost their souls to the communal spirit. So only becoming more honest will change anything. But this training is all the more difficult, in a place where we more often pretend.
 
-<a href="https://books.google.com/books?id=ZmpSAAAAcAAJ&pg=PA2"><i class="fas fa-book" aria-hidden="true"> source.</i></a>
+<a href="https://books.google.com/books?id=ZmpSAAAAcAAJ&pg=PA2"><i class="fas fa-book" aria-hidden="true"></i> <h2 style="font-size: 0.8rem">source.</h2></a>
