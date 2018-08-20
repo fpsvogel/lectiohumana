@@ -21,4 +21,4 @@ A high-powered career, for example, takes more out of us than we get back, a fac
 
 This is the way to seek after the highest good: heedless of the criticism of the crowd, focused only on the goal, firm in our conviction that this is indeed the path we should run, not only for our own well-being (as for the leper's) but also for the sake of people we can help through our particular path. Do you do parkour? Teach it to kids who don't otherwise know the skill of practicing toward a goal, and don't worry about raised eyebrows. Are you an artist, a musician, a gardener? Make your neighborhood a more beautiful place. Do you like thinking and delving into history? Make the life of the mind more lively and attractive to people you know.
 
-https://books.google.com/books?id=j7QtmPycnMsC&pg=PA165
+<h2 class="post-source"><a href="https://books.google.com/books?id=j7QtmPycnMsC&pg=PA165"><i class="fas fa-book" aria-hidden="true"></i> source</a></h2>

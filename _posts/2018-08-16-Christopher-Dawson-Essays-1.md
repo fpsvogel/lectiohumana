@@ -14,3 +14,5 @@ permalink: /:title
 Was it right for Abram to take his dependents away from their home and their family? Surely not, they must have lamented as they wandered in foreign lands. The stakes for us are usually lower: merely a sacrifice of comfort, of familiarity, perhaps of outward success in some field. A small risk, considering the cost of clinging to the Known: regret at not following a wider and deeper vision, the slow death of our spirit as our lost vision becomes a haunting nightmare, and in the daytime we close our eyes and try to ignore the weight of our forsaken destiny and the bitterness of our unrealized potential.
 
 Let us remember this, if we have set out for the Unknown and wonder whether we chose rightly.
+
+<h2 class="post-source"><a href="https://archive.org/stream/ChristianityAndCultureSelectionsFromTheWritingsOfChristopherDawson_989/dawsonChristianityAndCulture-SelectionsFromChristopherDawson#page/n9"><i class="fas fa-book" aria-hidden="true"></i> source</a></h2>

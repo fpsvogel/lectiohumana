@@ -26,3 +26,5 @@ So don't despair, if your life seems only tiny beginnings.
 > Jesus was baptized in the Jordan, where also were baptized leather-tanners, tax collectors, and Roman soldiers, the lowest scum of society. ... He, the fount of all purity, the king of kings and lord of lords, did not turn away in disgust from being washed in the same water as the rabble. No, if we make ourselves lower in society, we are raised up with God.
 
 And don't despair if right now you feel like the lowest of the low, slave to everyone around you, pouring out your life in menial work, grinding your mind against meaningless drudgery. God sees your suffering, and it has meaning in its likeness to Christ's own life, first as a manual laborer and then as a teacher misunderstood, hated, and killed.
+
+<h2 class="post-source"><a href="https://books.google.com/books?id=j7QtmPycnMsC&pg=PA159"><i class="fas fa-book" aria-hidden="true"></i> source</a></h2>

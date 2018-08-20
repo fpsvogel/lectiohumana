@@ -20,3 +20,5 @@ What activities can we engage in, what habits can we form that will invite us to
 > Leave Judah entirely, with its Jerusalem, its temple, it's sacrifices, its priesthood, its Pharisees, and go out into the desert, where you can hear the most delightful news of the coming Savior.
 
 Let's put aside the New Perspectives on Paul debate over whether first-century Jews sought salvation by works. Let's instead think of how we can leave our own "Judah," our society with all its distractions that we sink into to take our minds off the long hours of soulless work necessary to pay for those distractions. Go out to the desert! Break the cycle of slavery to hateful work and the stuff that it purchases, create quiet spaces in your life to feed your spirit, and find other desert pilgrims to keep you company on your new path.
+
+<h2 class="post-source"><a href="https://books.google.com/books?id=j7QtmPycnMsC&pg=PA157"><i class="fas fa-book" aria-hidden="true"></i> source</a></h2>

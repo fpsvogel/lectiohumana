@@ -20,3 +20,5 @@ No rest? No arrival? No problem. The good life is a lifelong struggle. Outward s
 > Why did Jesus declare the kingdom of God in Galilee? To the Syrians Galilee meant migration, so the hidden meaning is that whoever wants to hear Christ's proclamation must go on a journey away from their original habits and appetites, so that they are ready for a new and heavenly teaching.
 
 Even if our present way of life seems great, a total change in place and routine can reveal much about ourselves, whether that journey is time spent abroad, or a move and a new job, or a tragedy that changes the meaning of our old surroundings. Even when we don't happen to undergo such a drastic transition, how can we periodically view our life from the outside and keep from becoming comfortably unthinking about our behavior? How can we remind ourselves that we are in exile and must constantly aim higher to reach our home?
+
+<h2 class="post-source"><a href="https://books.google.com/books?id=j7QtmPycnMsC&pg=PA161"><i class="fas fa-book" aria-hidden="true"></i> source</a></h2>
