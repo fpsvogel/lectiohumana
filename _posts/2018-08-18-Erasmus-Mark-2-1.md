@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Erasmus: Mark 2:1-10"
-subtitle: "The power of speech and act in line"
+subtitle: "The power of speech and act in agreement"
 category: "Erasmus: Mark"
 author: "Erasmus"
 tags: [truth, speech, persona]
@@ -15,4 +15,4 @@ permalink: /:title
 
 How difficult would it be always to try to act according to our speech? To behave so that the reality around us matches what we say? We do not do this by social custom. Instead, keeping silent about the reality we see, we are non-confrontational or quietly conform to a persona far from ourselves. Or using words that describe a different reality, we lie and tell what is convenient rather than what is true. But in speaking the truth there is power: maybe not in our case the power to heal a paralytic, and maybe an unpleasant power (for Jesus it led to execution), because it isn't a power that brings advantage to the person wielding it, but a power that brings goodness into the world. How can we retrain ourselves to speak truth always? Even in trivial situations, where it would seem silly or awkward or socially inappropriate to speak the absolute truth. Wouldn't it be useful even then to be truthful, to stamp out that deceitful reflex which recurs in more serious situations? We would have to make one exception: where it would clearly do harm to the listener for no justifiable good. But with the good of others as our rule, we would on the whole speak more truthfully.
 
-<h2 class="post-source"><a href="https://books.google.com/books?id=j7QtmPycnMsC&pg=PA171"><i class="fas fa-book" aria-hidden="true"> source</i></a></h2>
+<h2 class="post-source"><a href="https://books.google.com/books?id=j7QtmPycnMsC&pg=PA171"><i class="fas fa-book" aria-hidden="true"></i> source</a></h2>
