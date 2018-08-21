@@ -37,12 +37,16 @@
 	font-size: 1.0rem;
   }
   
+  .post-source {
+    font-size: 0.8rem;
+	text-decoration: none;
+	line-height: 0px;
+  }
+  
   .post-source a {
     font-size: 0.8rem;
 	text-decoration: none;
 	line-height: 0px;
-	position: relative;
-	top: -10px;
   }
 
   .post-more {
