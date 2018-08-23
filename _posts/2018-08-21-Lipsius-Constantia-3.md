@@ -15,6 +15,6 @@ permalink: /:title
 
 How are we to judge rightly? How are we to see a thing as it truly is, to follow the good and avoid all that is empty or false? So much distorts our vision, especially the values held by people in our particular society, and our desire to gain a place in that society. This is no less true in a "Christian nation," no less true in this age of science.
 
-If we doubt the path which we follow, if we wonder where the good is that in simpler days we set out to reach, let us stand back from ourselves and consider our course and our direction as if we were scrutinizing another person. Only then, perhaps, can we judge with reason and not with the emotion in which we may be tangled up.
+If we doubt the path which we follow, if we wonder where the good is that in simpler days we set out to reach, let us stand back from ourselves and consider our course and our direction as if we were scrutinizing another person. Only then, perhaps, can we judge by reason and not by the fears and desires which are too volatile to serve as reliable guides.
 
 <h2 class="post-source"><a href="https://books.google.com/books?id=ZmpSAAAAcAAJ&pg=PA7"><i class="fas fa-book" aria-hidden="true"></i> source</a></h2>

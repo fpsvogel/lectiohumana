@@ -1,0 +1,18 @@
+---
+layout: post
+title: "Erasmus: Mark 2:11-12"
+subtitle: "Disgusted with our paralysis"
+category: "Erasmus: Mark"
+author: "Erasmus"
+tags: [repentance, regret, self-improvement, entertainment, tech, time, war]
+comments: false
+permalink: /:title
+---
+
+> At nunc mihi paulisper adhibe spirituales oculos, et considera quanto sit infelicior animi paralysis, cuius omnes vires sic occuparunt rerum fluxarum frigidissimae curae, ut totus ad omnia pietatis officia torpeat, ut nec manus habeat ad subveniendum inopiae pauperum, nec pedes quibus adeat Iesum, nec linguam qua Servatoris opem imporet, sed velut iustitiae mortuus, cupiditatem seu baiulorum arbitrio huc et illuc circumferatur. Quid faciat infelix animus, qui luxu, qui voluptate, qui studio gloriae et pecuniae totus solutus et enervatus, ex sese nullum habet robur a sordidis curis subrigendi sese ad amorem rerum caelestium? ... Tantum agnosce morbum, et confide de medico: quamquam ut hoc ipsum possis, nemo largitur nisi Deus. Is enim pro sua bonitate decrevit sanare paralyticum animum, immittit illi mirabile quoddam sui ipsius taedium, sic ut semet oderit, ac vitae etiam taedeat. Contuetur in quibus tenebris, in quibus flagitiis versatus sit, horretque seipsium, plane desperatus, nisi qui immisit acetum doloris, adderet oleum bonae spei. (12)
+
+> But now look for a moment with your spiritual eyes, and think how much worse is paralysis of the soul, when a person is sapped of all strength by cold worries over uncertain things, so that he is completely disabled from doing any good: he cannot stretch out his hand to help the poor, he cannot move is feet to pursue Jesus, he cannot use his tongue to ask for the Savior's help. No, it's as if he's dead to goodness, carried to and fro by those carrying his stretcher, that is, by the whim of his momentary urges. What can that poor soul do, who is completely drained by shallow pleasure and the crazed pursuit of reputation and wealth, who has no strength to lift itself up from these nasty occupations to the love of heavenly things? ... Only recognize your disease, and trust in the doctor—though only God can give you the strength even to do this. In his goodness God set out to heal the paralyzed soul, and put in it an unnatural disgust for itself, so that it would hate itself so much that it would be weary of life itself. And so this soul sees what darkness, what evils it has roamed, and in its horror of itself it is on the point of losing all hope, unless God, who's put vinegar in the wound, also eases the pain with the medicine of hope.
+
+How are we ourselves paralyzed in soul? In what ways do we spend our time that makes us less thinking, less generous, less awake to goodness, less alive? Perhaps work deadens our spirit: so, aim to change that, if not at your current employment, then by moving yourself somewhere else. But while you're at it, look at your time outside of work also. How about your entertainment? Who of us can't say that at one time, perhaps even now, we're flooding ourselves with the easiest entertainment at hand, pleasure for no work, fun at hardly any cost? And yet the cost is huge, if we would look away from the screen back at ourselves, a withered up, paralyzed mass of skin and bone hardly recognizable as human anymore, so disfigured and lifeless it has become. Take your time back into your own hands, and use it for good: for your own good, and ultimately for the good of others. Feed your spirit, so that it is strong and ready for battle against the world's evils, which will come into sharp focus as you wake up from your dazed sleep.
+
+<h2 class="post-source"><a href="https://books.google.com/books?id=j7QtmPycnMsC&pg=PA171"><i class="fas fa-book" aria-hidden="true"></i> source</a></h2>
