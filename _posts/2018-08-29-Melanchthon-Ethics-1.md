@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Melanchthon: Eptime Philosophiae Moralis, Prologue"
+title: "Melanchthon: Epitome Philosophiae Moralis, Prologue"
 subtitle: "A foundation for what we learn"
 category: "Melanchthon: Epitome Philosophiae Moralis"
 author: "Melanchthon"
