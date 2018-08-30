@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Chrisopher Dawson: Civilization and Morals"
+title: "Chrisopher Dawson: Stages in Mankind's Religious Experience"
 subtitle: "Embodied Transcendence"
 category: "Christopher Dawson: Essays"
 author: "Christopher Dawson"

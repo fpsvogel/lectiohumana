@@ -4,7 +4,7 @@ title: "Melanchthon: Epitome Philosophiae Moralis, Prologue"
 subtitle: "A foundation for what we learn"
 category: "Melanchthon: Epitome Philosophiae Moralis"
 author: "Melanchthon"
-tags: [teaching, learning, habit, studia humanitatis, Jordan Peterson, Christopher Dawson]
+tags: [teaching, learning, education, habit, studia humanitatis, Jordan Peterson, Christopher Dawson]
 comments: false
 permalink: /:title
 ---
