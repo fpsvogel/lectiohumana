@@ -7,7 +7,11 @@ title: About
 
 > You must spend time with certain thinkers and feed on them only, if you want to draw out something that will stick in your mind. If you are everywhere, you are nowhere.
 
-Hi there! Some time ago I noticed that I think, speak, and behave rather superficially. That includes my reading. So I cultivate deeper reading with the help of this blog, where I write thoughts on juicy excerpts.
+Hi there! On this blog I cultivate classical humanistic reading, or in other words, I read to live better. Erasmus says it best:
+
+> Quoties Princeps librum sumet in manum, hoc animo sumat, non ut delectetur, sed ut melior a lectione discedat. Facile invenit unde reddatur melior, qui hoc vehementer studet, ut melior fiat.
+
+> Whenever the prince picks up a book, he should read not for entertainment, but so that becomes a better person. If we have a burning desire to become better people, we will easily find the means.
 
 ### What does "lectio humana" mean?
 
