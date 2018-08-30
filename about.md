@@ -3,10 +3,6 @@ layout: page
 title: About
 ---
 
-> Certis ingeniis immorari et innutriri oportet, si velis aliquid trahere quod in animo fideliter sedeat. Nusquam est qui ubique est. (Seneca, *Epistulae Morales* 1.2)
-
-> You must spend time with certain thinkers and feed on them only, if you want to draw out something that will stick in your mind. If you are everywhere, you are nowhere.
-
 Hi there! On this blog I cultivate classical humanistic reading, or in other words, I read to live better. Erasmus says it best:
 
 > Quoties Princeps librum sumet in manum, hoc animo sumat, non ut delectetur, sed ut melior a lectione discedat. Facile invenit unde reddatur melior, qui hoc vehementer studet, ut melior fiat.
