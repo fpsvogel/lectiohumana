@@ -4,7 +4,7 @@ title: "Erasmus: Mark 1:22-44"
 subtitle: "Our demons and our leprosy"
 category: "Erasmus: Mark"
 author: "Erasmus"
-tags: [vices, criticism, happiness, highest good, self-improvement]
+tags: [vice, criticism, happiness, highest good, self-improvement]
 comments: false
 permalink: /:title
 ---
