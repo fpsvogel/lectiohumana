@@ -4,7 +4,7 @@ title: "Lipsius: De Constantia 1.15-22"
 subtitle: "Fighting with Fate"
 category: "Lipsius: De Constantia"
 author: "Lipsius"
-tags: [responsibility, power, divine will, learning, Epictetus, employment, vision]
+tags: [responsibility, power, divine will, learning, Epictetus, work, vision]
 comments: false
 permalink: /:title
 ---
