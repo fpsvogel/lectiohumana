@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "R. W. Livingstone: Greek Ideals and Modern Life, Introduction"
-subtitle: ""
+subtitle: "Follow the Greeks"
 category: "R. W. Livingstone: Greek Ideals and Modern Life"
 author: "R. W. Livingstone"
 tags: [modernity, purpose, studia humanitatis, Greeks, highest good, reason, entertainment, work]
