@@ -2,7 +2,7 @@
 layout: post
 title: "Henry More: Enchiridion Ethicum, Prologue"
 subtitle: "What is virtue, and why should we care?"
-category: "Henry More: Enchiridion Ethicum"
+category: "DNF"
 author: "Henry More"
 tags: [virtue, love, learning, habit, politics, modernity, church, Christianity]
 comments: false
