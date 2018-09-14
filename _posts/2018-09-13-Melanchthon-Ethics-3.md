@@ -9,6 +9,8 @@ comments: false
 permalink: /:title
 ---
 
+*4. Quid est finis hominis?*
+
 > Est igitur et secundum veram Philosophiam finis praecipuus hominis, aliqua agnitio Dei, seu Deus. Sed philosophi sic loquuntur, ut dixi: aiunt virtutem finem esse, et cum nos sic loquimur, intelligamus 
 in ipsa appellatione, et hanc summmam virtutem, ut Deus agnoscatur, et omnes honestae actiones ad Deum referantur.
 
