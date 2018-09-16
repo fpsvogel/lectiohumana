@@ -10,6 +10,7 @@ permalink: /:title
 ---
 
 > Cunctis mortalibus insitum est, ut felicitatem expetant. Hanc multi mundana quadam sapientia praepollentes, alii proditis legibus, alii traditis praeceptis recte vivendi, hactenus polliciti sunt. Sed quoniam homines erant, non valuerunt praestare, quod pollicebantur. Nec enim noverant, quaenam esset vera hominis felicitas, aut quibus in rebus sita. Proinde factum est, ut pro vera felicitate fallacem quandam felicitatis imaginem sint amplexi, et errorem suum in alios transfuderint, falsi simul et fallentes. (1.1)
+{:.latin}
 
 > Everyone chases after happiness, and all kinds of people promise it: the life-hackers, the politicians, the bureaucrats, the altriusts. But, mere mortals as they are, they haven't delivered. They don't even know what on earth real happiness is or where to find it, and so instead of happiness they've latched onto some inferior copy of it and inflicted their error on other people, deceiving while themselves deceived.
 

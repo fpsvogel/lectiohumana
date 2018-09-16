@@ -14,6 +14,7 @@ permalink: /:title
 *3. Quae sunt utilitates huius doctrinae? / How is ethical philosophy useful?*
 
 > Sed Sectae erudite discernantur, ac Lucianus in Dialogo de Sectis, quaerit unde sciri possit, quae secta sit verior, num ex barba, aut torvitate vultus, aut aliunde? Ludit ille quidem suo more, sed recte instituti in Philosophia sciunt eam doctrinam veram esse, ubicumque traditur, quae demonstrationes tradit, et ordine in earum investigatione procedit, et causas certitudinis quaerit, conferens doctrinam ad κριτήρια. Amplectamur autem vera, et Deo gratias agamus pro ea luce, et falsa constantur reiciamus et refutemus.
+{:.latin}
 
 > But we must judge different schools of thought and ways of life based on careful study. Lucian in his *Dialogue of Philosophical Traditions* asks how we are to know which way of life is more true: based on each teacher's beard? on how stern their faces look? or on something else? He jokes, of course. If we are well-grounded in philosophy, we can recognize true teachings wherever they are taught. We can see that a school of thought teaches truth if it backs up its claims with proof, examines its own claims in an orderly way, and puts its own claims to the test in order to be certain of them. So let us embrace truth wherever we find it, thanking God for that light, and on the other hand let us reject and expose false teachings wherever we find them.
 
