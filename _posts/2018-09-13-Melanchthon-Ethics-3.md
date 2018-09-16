@@ -9,10 +9,9 @@ comments: false
 permalink: /:title
 ---
 
-*4. Quid est finis hominis?*
+*4. Quid est finis hominis? / What is our purpose?*
 
-> Est igitur et secundum veram Philosophiam finis praecipuus hominis, aliqua agnitio Dei, seu Deus. Sed philosophi sic loquuntur, ut dixi: aiunt virtutem finem esse, et cum nos sic loquimur, intelligamus 
-in ipsa appellatione, et hanc summmam virtutem, ut Deus agnoscatur, et omnes honestae actiones ad Deum referantur.
+> Est igitur et secundum veram Philosophiam finis praecipuus hominis, aliqua agnitio Dei, seu Deus. Sed philosophi sic loquuntur, ut dixi: aiunt virtutem finem esse, et cum nos sic loquimur, intelligamus in ipsa appellatione, et hanc summmam virtutem, ut Deus agnoscatur, et omnes honestae actiones ad Deum referantur.
 
 > True philosophy, too, holds that a person's fundamental purpose is to know God in some way, that is, that God himself is the purpose. But the philosophers use other terms: they say that virtue is our purpose. So as part of virtue let us also include the highest virtue, which is to recognize God and credit all worthy deeds to him.
 
