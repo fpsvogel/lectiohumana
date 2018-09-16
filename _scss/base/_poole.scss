@@ -229,6 +229,22 @@ blockquote p:last-child {
   }
 }
 
+q {
+  padding: .5rem 1rem;
+  margin: .8rem 0;
+  color: #7a7a7a;
+  border-left: .25rem solid #d34141;
+}
+q p:last-child {
+  margin-bottom: 0;
+}
+@media (min-width: 30em) {
+  q {
+    padding-right: 5rem;
+    padding-left: 1.25rem;
+  }
+}
+
 img {
   display: block;
   max-width: 100%;
