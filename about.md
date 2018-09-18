@@ -10,7 +10,7 @@ Hi there! On this blog I cultivate classical humanistic reading, or in other wor
 
 > Whenever the prince picks up a book, he should read not for entertainment, but so that becomes a better person. If we have a burning desire to become better people, we will easily find the means. (Education of a Christian Prince 2.21)
 
-Because I aim to post every weekday, only now and then do I write something from the heart. Here are a few of those:
+Because I aim to post every weekday, only now and then do I write something from the heart. Here is one of those:
 * [31 Aug. 2018 – Where is my home, who are my people?]({{ site.url }}/Lipsius-Constantia-5)
 
 ### What does "lectio humana" mean?
@@ -19,7 +19,7 @@ Because I aim to post every weekday, only now and then do I write something from
 
 ### Why all the Latin?
 
-Latin, besides being lots of fun, helps us take off our cultural blinders by transporting us to another world, the pre-industrial Graeco-Roman tradition, which is also the spiritual heritage of Christians and the whole Westernized world. But because this tradition has fallen by the wayside, children are not spiritually nourished in our schools; the practice of Western Christianity and its offspring in "developing countries" is shallow; and Westernization across the world is a double-edged sword of material development and spiritual destruction.
+Latin, besides being lots of fun, helps us take off our cultural blinders by transporting us to another world, the pre-industrial Graeco-Roman tradition. This tradition is the spiritual heritage of Christians and the whole Westernized world, but we all have turned our attention elsewhere, selling our birthright for a mess of pottage. Consequently our children are not spiritually nourished in our schools, the practice of Western Christianity and its offspring in "developing countries" is shallow, and Westernization across the world is a double-edged sword of material development and spiritual destruction.
 
 ### Why all the Christian stuff? I thought you said humanists.
 
