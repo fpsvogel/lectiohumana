@@ -13,4 +13,9 @@ permalink: /:title
 
 How can we look to the Greeks to supply what we've left behind in our material progress, to enrich us where we've become poor?
 
+But then, we have to be careful and historical in our investigation:
+
+> Even Arnold, who understood Greece far better, was not happy in defining its genius. The famous phrase 'Sweetness and Light' is a nebulous, inaccurate and inadequate description. One could wish in another world to hear Socrates cross-examining 
+Arnold on the meaning of 'sweetness' and on its applicability to the Greeks.
+
 <h2 class="post-source"><a href="https://archive.org/stream/greekidealsmoder00livi#page/31"><i class="fas fa-book" aria-hidden="true"></i> source</a></h2>
