@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "R. W. Livingstone: Greek Ideals and Modern Life, Introduction"
-subtitle: "Follow the Greeks"
+subtitle: "Hellenic sweetness and light"
 category: "R. W. Livingstone: Greek Ideals and Modern Life"
 author: "R. W. Livingstone"
 tags: [modernity, Greeks]
