@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "R. W. Livingstone: Greek Ideals and Modern Life, Introduction"
+title: "R. W. Livingstone: Greek Ideals and Modern Life, The Growing Influence of Hellenism"
 subtitle: "Hellenic sweetness and light"
 category: "R. W. Livingstone: Greek Ideals and Modern Life"
 author: "R. W. Livingstone"
