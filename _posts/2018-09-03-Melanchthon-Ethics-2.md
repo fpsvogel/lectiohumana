@@ -9,9 +9,7 @@ comments: false
 permalink: /:title
 ---
 
-*1. Quid est Philosophia moralis? / What is ethical philosophy?*
-*2. Pugnatne Philosophia moralis cum doctrina, quam Deus Ecclesiae tradidit? / Does ethical philosophy conflict with Church teachings?*
-*3. Quae sunt utilitates huius doctrinae? / How is ethical philosophy useful?*
+*Quae sunt utilitates huius doctrinae [Philosophiae moralis]? / How is ethical philosophy useful?*
 
 > Sed Sectae erudite discernantur, ac Lucianus in Dialogo de Sectis, quaerit unde sciri possit, quae secta sit verior, num ex barba, aut torvitate vultus, aut aliunde? Ludit ille quidem suo more, sed recte instituti in Philosophia sciunt eam doctrinam veram esse, ubicumque traditur, quae demonstrationes tradit, et ordine in earum investigatione procedit, et causas certitudinis quaerit, conferens doctrinam ad κριτήρια. Amplectamur autem vera, et Deo gratias agamus pro ea luce, et falsa constantur reiciamus et refutemus.
 {:.latin}

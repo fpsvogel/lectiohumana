@@ -17,4 +17,4 @@ permalink: /:title
 
 Even if we steer clear of piling up money or possessions, even if we value above all the life of the spirit and of the mind, are we yet consumerists of immaterial goods? Do we perhaps stuff ourselves with knowledge in order to grow tall and strong before men, unaware that our gluttonous vanity is making us morbidly obese?
 
-How can we learn wisdom by a reflective practice, not by a mad hoarding?
+How can we learn wisdom by a reflective practice, not by a mad hoarding? That is, how can we question the ends and the means of the world around us, rather than falling into the competition only by less crude means? How can we, finally, enjoy the eternal that we find in the earthly, the beautiful amid corruption, and help others to do the same?
