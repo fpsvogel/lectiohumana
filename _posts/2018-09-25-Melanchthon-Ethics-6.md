@@ -4,7 +4,7 @@ title: "Melanchthon: Epitome Philosophiae Moralis, Question 4"
 subtitle: "Greater and lesser virtues"
 category: "Melanchthon: Epitome Philosophiae Moralis"
 author: "Melanchthon"
-tags: [virtue, learning, home]
+tags: [virtue, learning, home, Plato]
 comments: false
 permalink: /:title
 ---
