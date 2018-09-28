@@ -4,7 +4,7 @@ title: "Michael Oakeshott: The Voice of Liberal Learning, A Place of Learning"
 subtitle: "Learning what to learn"
 category: "Michael Oakeshott: The Voice of Liberal Learning"
 author: "Michael Oakeshott"
-tags: [learning, culture, modernity, studia humanitatis]
+tags: [learning, education, culture, modernity, studia humanitatis]
 comments: false
 permalink: /:title
 ---
