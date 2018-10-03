@@ -1,0 +1,18 @@
+---
+layout: post
+title: "R. W. Livingstone: Greek Ideals and Modern Life, Humanism in Politics"
+subtitle: "It's all in your head"
+category: "R. W. Livingstone: Greek Ideals and Modern Life"
+author: "R. W. Livingstone"
+tags: [reason, Greeks, tech, modernity]
+comments: false
+permalink: /:title
+---
+
+> If politics is one problem of our age, trade and industry are another. Our world may be destroyed by war; but it is quite as likely to be choked by machines and commerce. The state is threatened by the first of these dangers, the individual by the second. What would be the attitude of Greek humanism to mechanization and commercialism? ... there is no doubt what Plato and Aristotle would have thought of both. The views which they express are the logical conclusion of humanism; and both of them, the practical philosopher no less than the mystical idealist, would have described the activities which form the greater part of our civilization and occupy the lives of the majority of men in England and America, by the word βάναυσος. The epithet is not complimentary. It may be translated 'mechanical', as the tribunes use the word to the street crowd in *Julius Caesar*; but the Greek has a deeper tinge of contempt. It is used of people who spend money with vulgar ostentation, of accomplishments inconsistent with a perception of the true purpose of life, and it is constantly coupled with the word ἀνελεύθερος, 'illiberal', 'unworthy of a free man' (or, as we should say, 'unworthy of a gentleman'). ... Few people can visit a factory or walk through the City at noon entirely satisfied that this is the right life for human beings to lead. If Greek philosophy and Christianity were right in thinking that man is a spiritual being, are a Stock Exchange, a foundry, or a shop the ideal theatres for his activities?
+
+> Further, Plato and Aristotle hold that the highest thing in man is the reason, and that human perfection must therefore lie in the activity of the reason, in the 'theoretic' or contemplative life. But trade and industry and mechanical labour leave no leisure for this life and draw the mind in quite another direction. Therefore to engage in them is to turn the back on the human ideal, to abandon the quest for which man was born. ... It is unfortunate that the words which Plato and Aristotle use to describe their ideal have an unattractive ring to our ears. Contemplation suggests inactivity, theoretic is almost a term of reproach, reason has an arid and controversial sound, as if it implied disputes about faith and intellect, and was inseparably connected with the Rationalist Press. But to a Greek these words had very different meanings. The life of reason, the 'theoretic' life, is that led at its highest by Dante, Milton, Spinoza, Leonardo da Vinci, Michael Angelo, Newton, Darwin, and, on a lower level, by lesser poets, artists, men of science, and thinkers in every age; an intense activity of the intellect and imagination, continually in the pursuit or presence of the beauty, wonder, and mystery of the universe.
+
+Granted, this exaltation of reason is a narrow ideal and leaves no room for people not so gifted, or gifted in hands-on creativity—e.g. those who love gardening, raising animals, playing music or crafting furniture. But anyone is better off for experiencing the beauty of the universe in as many ways as possible, and everyone, gifted or not, can experience it to some extent through the life of the mind. How can we make this path to beauty more accessible, more visible today?
+
+<h2 class="post-source"><a href="https://archive.org/stream/greekidealsmoder00livi#page/104"><i class="fas fa-book" aria-hidden="true"></i> source</a></h2>
