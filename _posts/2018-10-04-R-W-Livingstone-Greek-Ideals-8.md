@@ -1,0 +1,18 @@
+---
+layout: post
+title: "R. W. Livingstone: Greek Ideals and Modern Life, Christianity and Hellenism"
+subtitle: "Practicing horror"
+category: "R. W. Livingstone: Greek Ideals and Modern Life"
+author: "R. W. Livingstone"
+tags: [Hebrews, divine will, virtue, routines]
+comments: false
+permalink: /:title
+---
+
+> The Hebraic conception of God as a person, whose character and will is clearly known, has an effect not only on men's view of life but on their conduct of it. It leads not only to moral earnestness—there is no want of that in Plato or the Stoics—but to a passion for moral reform, and an ardent determination to achieve it, which are not Greek. ... 'The zeal of thine house hath eaten me up' (Ps. 69:9). The extravagance of the metaphor reveals an intensity peculiar to Hebraism.
+
+> It is not that the Greeks lacked great moralists. In Socrates they have one of the famous martyrs of mankind. The two greatest handbooks of morals and two of the greatest moral systems are Greek. But a passionate restlessness for moral reform is not Greek. It is not fair to say that their virtue is passive rather than active; yet even about Socrates there is a touch of quietism. He does not agonize for his beliefs like the prophets or the apostles. Plato's vision and desire are broken at moments by questionings, whether men are worth troubling about. 'Human affairs do not deserve to be taken too seriously and yet we must be serious about them; and that is an unhappy state of things.' 'I was going to say that legislation is never the work of men, but that chance and every variety of accident determine our laws.' ... Such doubts never troubled Isaiah or St. Paul; and the clearer the vision, the firmer the hand. The Greeks created the conception of natural morals as natural religion, and made of both all that men could make. But they never knew the unquestioning imperative of a direct Divine command. A moral law is binding; but it has not the urgency of an authoritative personal will. It is easier to disobey a principlel than the Ruler of the universe. That perhaps is why the Greeks have no word for sin and why their attitude to wrongdoing was disapproval, not, as with Jew and Christian, horror. Wrongdoing to the Greek was a ἁμαρτία, a miss, an error, a false note struck in the harmony of the universe. But a miss or an error can be corrected, and the false notes are silent when their waves of air ebb away. The prophets felt differently. Johovah is absolute goodness. A wrong act is a permanent insult to him. God will not forget it, because he cannot. It cannot be undone, because it is. Once done, it remains always to eternity. It cannot be recalled; and no human effort can wash it out or make reparation. The idea of sin is unpopular today. But clearly evil wil vanish more quickly from a world to which wrong-doing is an offence against God than from one which regards it as missing the mark.
+
+If we habitually do what satisfies our soul, and if we add to that habits that jar us out of self-satisfaction into a higher pursuit of God, we do well. But can we also bring ourselves often to the edge of that dark pit inside us, to see with horror what we are fighting against, how far we've been brought, and how far we have yet to go? A daily review of one's shortcomings, as Ben Franklin recommended? A time of contemplative prayer, á la Thomas Merton? Putting ourselves in a murderous criminal's shoes, as Jordan Peterson once said helped him?
+
+<h2 class="post-source"><a href="https://archive.org/stream/greekidealsmoder00livi#page/156"><i class="fas fa-book" aria-hidden="true"></i> source</a></h2>
