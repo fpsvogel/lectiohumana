@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Chrisopher Dawson: The Christian View of History"
+title: "Chrisopher Dawson: History and the Christian Revelation"
 subtitle: "Our histories, dark and mysterious"
 category: "Christopher Dawson: Essays"
 author: "Christopher Dawson"
