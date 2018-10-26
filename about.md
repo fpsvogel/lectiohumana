@@ -15,15 +15,19 @@ Because I aim to post every weekday, only now and then do I write something from
 
 ### What does "lectio humana" mean?
 
-"Human reading," a play on *lectio divina* with a nod to the humanists, whose work I'm spending time with.
+"Human reading," a play on *lectio divina* with a nod to the Western humanist tradition.
 
 ### Why all the Latin?
 
-Latin, besides being lots of fun, helps us take off our cultural blinders by transporting us to another world, the pre-industrial Graeco-Roman tradition. This tradition is the spiritual heritage of Christians and the whole Westernized world, but we all have turned our attention elsewhere, selling our birthright for a mess of pottage. Consequently our children are not spiritually nourished in our schools, the practice of Western Christianity and its offspring in "developing countries" is shallow, and Westernization across the world is a double-edged sword of material development and spiritual destruction.
+Latin, besides being lots of fun, helps us take off our cultural blinders by transporting us to another world, the pre-industrial Graeco-Roman tradition. This tradition is the spiritual heritage of Christians and the whole Westernized world, but we've turned our attention elsewhere, and consequently our children are not spiritually nourished in our schools, the practice of Western Christianity and its offspring in "developing countries" is shallow, and Westernization across the world is a double-edged sword of material development and spiritual destruction.
 
-### Why all the Christian stuff? I thought you said humanists.
+### Graeco-Roman? Are one of those "the West is the best" bigots?
 
-I mean the humanists of the Renaissance, and their forebears and successors. If you think humanism is just another name for atheism, please read these:
+No, I love other cultures. For example, I work in Africa, I'm learning Hebrew, and I think every Westerner should get to know intimately at least one foreign culture. But we also need to dig into our own traditions to understand ourselves, our times, and how to improve them.
+
+### So why all the Christian stuff? I thought you said humanists.
+
+I mean humanists in the older and fuller sense. If you think humanism is just another name for atheism, please read these:
 
 * [Matthew Spinka on Christian humanism]({{ site.url }}/Matthew-Spinka-Christian-Thought-1), excerpted from his book *Christian Thought*
 * *A Christian Humanist Manifesto* by Roger Olson: [Part 1](http://www.patheos.com/blogs/rogereolson/2012/11/a-christian-humanist-manifesto-god-is-most-satisfied-with-us-when-we-are-most-glorified-by-him-part-1/), [Part 2](http://www.patheos.com/blogs/rogereolson/2012/11/a-christian-humanist-manifesto-part-2/), [Part 3](http://www.patheos.com/blogs/rogereolson/2012/11/a-christian-humanist-manifesto-part-3-final/)
