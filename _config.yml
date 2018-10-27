@@ -45,6 +45,8 @@ nav:
     - '/categories/'
   Tags:
     - '/tags/'
+  Exercitia:
+    - '/exercitia/index.html'
   About:          
     - '/about/'
 #  Github Project: 
