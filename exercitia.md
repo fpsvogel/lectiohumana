@@ -1,5 +1,5 @@
 ---
-layout: exercitium
+layout: exercitia
 title: Exercitia
 ---
 
