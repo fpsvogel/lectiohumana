@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Exercitium
-category: exercitia
+category: "exercitia"
 comments: false
 permalink: /:title
 ---
