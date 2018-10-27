@@ -5,7 +5,6 @@ title: Exercitia
 
 <div class="posts">
   {% for post in paginator.posts %}
-	{% if post.exercitia != null %}
 	  <div class="post">
 		<h1 class="post-title">
 		  <a href="{{ site.baseurl }}{{ post.url }}">
@@ -46,7 +45,6 @@ title: Exercitia
 		  {% endif %}
 		</div>
 	  </div>
-	{% endif %}
   {% endfor %}
 </div>
 
