@@ -3,31 +3,23 @@ layout: page
 title: About
 ---
 
-Hi there! On this blog I cultivate classical humanistic reading, or in other words, I read to live better. Erasmus says it best:
+Hi there! What is *humanism?* To this question there are almost as many answers as there are people. I'm searching for the best kind of humanism, sharing my reflections on this blog along the way, and following the advice of Erasmus:
 
 > Quoties Princeps librum sumet in manum, hoc animo sumat, non ut delectetur, sed ut melior a lectione discedat. Facile invenit unde reddatur melior, qui hoc vehementer studet, ut melior fiat. (Institutio Principis Christiani 2.21)
 {:.latin}
 
 > Whenever the prince picks up a book, he should read not for entertainment, but so that becomes a better person. If we have a burning desire to become better people, we will easily find the means. (Education of a Christian Prince 2.21)
 
-Because I aim to post every weekday, only now and then do I write something from the heart. Here is one of those:
+Here is a favorite post:
 * [31 Aug. 2018 – Where is my home, who are my people?]({{ site.url }}/Lipsius-Constantia-5)
 
 ### What does "lectio humana" mean?
 
-"Human reading," a play on *lectio divina* with a nod to the Western humanist tradition.
+It's a play on *lectio divina.*
 
-### Why all the Latin?
+### Why all the Christian stuff? I thought you said humanism.
 
-Latin, besides being lots of fun, helps us take off our cultural blinders by transporting us to another world, the pre-industrial Graeco-Roman tradition. This tradition is the spiritual heritage of Christians and the whole Westernized world, but we've turned our attention elsewhere, and consequently our children are not spiritually nourished in our schools, the practice of Western Christianity and its offspring in "developing countries" is shallow, and Westernization across the world is a double-edged sword of material development and spiritual destruction.
-
-### Graeco-Roman? Are one of those "the West is the best" bigots?
-
-No, I love other cultures. For example, I work in Africa, I'm learning Hebrew, and I think every Westerner should get to know intimately at least one foreign culture. But we also need to dig into our own traditions to understand ourselves, our times, and how to improve them.
-
-### So why all the Christian stuff? I thought you said humanists.
-
-I mean humanists in the older and fuller sense. If you think humanism is just another name for atheism, please read these:
+I mean humanism in the older sense. If you think humanism is just another name for atheism, please read these:
 
 * [Matthew Spinka on Christian humanism]({{ site.url }}/Matthew-Spinka-Christian-Thought-1), excerpted from his book *Christian Thought*
 * *A Christian Humanist Manifesto* by Roger Olson: [Part 1](http://www.patheos.com/blogs/rogereolson/2012/11/a-christian-humanist-manifesto-god-is-most-satisfied-with-us-when-we-are-most-glorified-by-him-part-1/), [Part 2](http://www.patheos.com/blogs/rogereolson/2012/11/a-christian-humanist-manifesto-part-2/), [Part 3](http://www.patheos.com/blogs/rogereolson/2012/11/a-christian-humanist-manifesto-part-3-final/)
@@ -37,4 +29,4 @@ I mean humanists in the older and fuller sense. If you think humanism is just an
 
 ### Who are you?
 
-{% include contact.html text="Email me / Follow what I read / See my story: " %}
+{% include contact.html text="Email me / Watch my videos / Follow what I read / See my story: " %}

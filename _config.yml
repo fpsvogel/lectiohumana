@@ -29,6 +29,7 @@ author:
   name: Felipe Vogel
   contact:
     email:     http://scr.im/felipevogel
+    youtube: https://www.youtube.com/channel/UCn5bvbdSxoChcEmU28opUTg
     goodreads: https://www.goodreads.com/user/show/51351645-felipe-vogel
     linkedin:  https://www.linkedin.com/in/vogelfelipe
 #    github:    https://github.com/codinfox
@@ -45,8 +46,8 @@ nav:
     - '/categories/'
   Tags:
     - '/tags/'
-  Exercitia:
-    - '/exercitia/'
+  Ephemeris:
+    - '/ephemeris/'
   About:          
     - '/about/'
 #  Github Project: 
