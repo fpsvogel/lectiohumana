@@ -19,13 +19,16 @@ It's a play on *lectio divina.*
 
 ### Why all the Christian stuff? I thought you said humanism.
 
-I mean humanism in the older sense. If you think humanism is just another name for atheism, please read these:
+Of the many "humanisms," Christian humanism is the best and most beautiful. If you think humanism is just another name for atheism, please read this: [*What Went Wrong In Europe? A Reflection on Western Modernity*](https://home.isi.org/what-went-wrong-europebr-reflection-western-modernity). These might also be helpful:
 
-* [Matthew Spinka on Christian humanism]({{ site.url }}/Matthew-Spinka-Christian-Thought-1), excerpted from his book *Christian Thought*
-* *A Christian Humanist Manifesto* by Roger Olson: [Part 1](http://www.patheos.com/blogs/rogereolson/2012/11/a-christian-humanist-manifesto-god-is-most-satisfied-with-us-when-we-are-most-glorified-by-him-part-1/), [Part 2](http://www.patheos.com/blogs/rogereolson/2012/11/a-christian-humanist-manifesto-part-2/), [Part 3](http://www.patheos.com/blogs/rogereolson/2012/11/a-christian-humanist-manifesto-part-3-final/)
-* [*Christianity and the Humanist Tradition*](http://www.theimaginativeconservative.org/2013/06/christianity-and-the-humanist-tradition.html) by Christopher Dawson
-* [*Why Christians should believe in humanism, and humanists in Christianity*](https://www.theosthinktank.co.uk/cmsfiles/archive/files/Christian%20Humanism%20FINAL%20combined.pdf)
+* [*Making Modernity Human: Can Christian humanism redeem an age of ideology?*](http://www.theimaginativeconservative.org/2012/11/making-modernity-human-can-christian.html)
+* [*Teaching Christian Humanism*](https://www.firstthings.com/article/1996/05/teaching-christian-humanism)
+* [*Russell Kirk: Christian Humanism and Conservatism*](http://www.theimaginativeconservative.org/2018/01/russell-kirk-christian-humanism-and-conservatism-vigen-guroian.html)
 * [*Renaissance Humanism, Reformation and Counter-Reformation*](https://christopher-dawson.blogspot.com/2015/04/renaissance-humanism-reformation-and.html) by Christopher Dawson
+* [Jacques Maritain's "integral humanism"](https://en.wikipedia.org/wiki/Integral_humanism_(Maritain))
+* [*The Christian Humanist View of Being Human in the Renaissance*](http://www.theimaginativeconservative.org/2012/05/the-christian-humanist-view-of-being-human-in-the-renaissance.html)
+* [Matthew Spinka on Christian humanism]({{ site.url }}/Matthew-Spinka-Christian-Thought-1), excerpted from his book *Christian Thought*
+* [*Christianity and the Humanist Tradition*](http://www.theimaginativeconservative.org/2013/06/christianity-and-the-humanist-tradition.html) by Christopher Dawson
 
 ### Who are you?
 

@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Kenneth Oldmeadow: Traditionalism: Religion in the light of the Perennial Philosophy"
+title: "Harry Oldmeadow: Traditionalism: Religion in the light of the Perennial Philosophy"
 subtitle: "Traditions allied under siege"
 category: "Traditionalists"
 author: "Traditionalists"
-tags: [tradition, modernity, culture, Revelation, humanism, faith, evolutionism, East]
+tags: [tradition, modernity, culture, Revelation, humanism, faith, evolutionism, East, Jonathan Pageau, Calvin]
 comments: false
 permalink: /:title
 ---
@@ -42,5 +42,7 @@ The traditionalists point to divine truth in several religious traditions, but a
 Nor do the traditionalists ask that people in the West practice Eastern religions:
 
 > What we have in mind, for the Christian, is a return to his own sources, and not an 'orientalisation' of the West. (Schuon, quoted p. 170)
+
+In view of these thoughts, how can we delve deeper into a tradition? Listening to Jonathan Pageau lately has been a new taste of the tradition of symbolic biblical interpretation. I have read some of Calvin's Institutes; I will give it another try because the Reformed tradition is the most formidable among the Protestants.
 
 *Note: Due to increased work responsibilities, from now on I will post once per week. However, I am now practicing languages in the Ephemeris section of this site, as well as writing articles and making videos at the links on the About page.*
