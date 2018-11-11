@@ -9,7 +9,7 @@ comments: false
 permalink: /:title
 ---
 
-Choice excerpts from *Traditionalism* by Kenneth Oldmeadow. The traditionalists, who are new to me, seem to offer a wonderful alternative to the current dichotomy between the scientific and literalist religious worldviews, where to be an intelligent person many feel like they have to abandon their religious tradition, or at least reinterpret it to death. The world of symbol, the esoteric, the value of other cultures, an incisive critique of modernity—all these are opened up by this school of thinkers. Here are some outstanding quotes.
+Choice excerpts from *Traditionalism* by Kenneth Oldmeadow. The Traditionalists, who are new to me, seem to offer a wonderful alternative to the current dichotomy between the scientific and literalist religious worldviews, where to be an intelligent person many feel like they have to abandon their religious tradition, or at least reinterpret it to death. The world of symbol, the esoteric, the value of other cultures, an incisive critique of modernity—all these are opened up by this school of thinkers. Here are some outstanding quotes.
 
 On the value of traditional cultures:
 
@@ -43,6 +43,6 @@ Nor do the traditionalists ask that people in the West practice Eastern religion
 
 > What we have in mind, for the Christian, is a return to his own sources, and not an 'orientalisation' of the West. (Schuon, quoted p. 170)
 
-In view of these thoughts, how can we delve deeper into a tradition? Listening to Jonathan Pageau lately has been a new taste of the tradition of symbolic biblical interpretation. I have read some of Calvin's Institutes; I will give it another try because the Reformed tradition is the most formidable among the Protestants.
+In view of these thoughts, how can we delve deeper into our tradition? Listening to Jonathan Pageau lately has given me a new taste of the tradition of symbolic biblical interpretation. I have read some of Calvin's Institutes; I will give it another try because the Reformed tradition is the most formidable among the Protestants.
 
 *Note: Due to increased work responsibilities, from now on I will post once per week. However, I am now practicing languages in the Ephemeris section of this site, as well as writing articles and making videos at the links on the About page.*
