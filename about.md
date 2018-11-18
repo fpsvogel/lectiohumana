@@ -20,7 +20,7 @@ It's a play on *lectio divina.*
 
 ### Why all the Christian stuff? I thought you said humanism.
 
-Of the many "humanisms," Christian humanism is the best and most beautiful. If you think humanism is just another name for atheism, please read this: [*What Went Wrong In Europe? A Reflection on Western Modernity*](https://home.isi.org/what-went-wrong-europebr-reflection-western-modernity). These might also be helpful:
+Of the many "humanisms," Christian humanism is the best and one of the oldest. If you think humanism is just another name for atheism, please read this: [*What Went Wrong In Europe? A Reflection on Western Modernity*](https://home.isi.org/what-went-wrong-europebr-reflection-western-modernity). These might also be helpful:
 
 * [*Making Modernity Human: Can Christian humanism redeem an age of ideology?*](http://www.theimaginativeconservative.org/2012/11/making-modernity-human-can-christian.html)
 * [*Inheriting Twentieth-Century Christian Humanism*](https://www.ancientfaith.com/specials/the_climacus_conference_2011/inheriting_twentieth_century_christian_humanism) (audio)
