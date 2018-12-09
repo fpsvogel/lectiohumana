@@ -14,14 +14,12 @@ Here are some favorite posts:
 * [4 Nov. 2018 – Traditions allied under siege]({{ site.url }}/Traditionalism-1)
 * [31 Aug. 2018 – Where is my home, who are my people?]({{ site.url }}/Lipsius-Constantia-5)
 
-### What does "lectio humana" mean?
+And below is further reading on some of the topics that often pop up on the blog.
 
-It's a play on *lectio divina.*
+### HUMANISM
+Of the many "humanisms," Christian humanism is the best and one of the oldest.
 
-### Why all the Christian stuff? I thought you said humanism.
-
-Of the many "humanisms," Christian humanism is the best and one of the oldest. If you think humanism is just another name for atheism, please read this: [*What Went Wrong In Europe? A Reflection on Western Modernity*](https://home.isi.org/what-went-wrong-europebr-reflection-western-modernity). These might also be helpful:
-
+* [*What Went Wrong In Europe? A Reflection on Western Modernity*](https://home.isi.org/what-went-wrong-europebr-reflection-western-modernity)
 * [*Making Modernity Human: Can Christian humanism redeem an age of ideology?*](http://www.theimaginativeconservative.org/2012/11/making-modernity-human-can-christian.html)
 * [*Inheriting Twentieth-Century Christian Humanism*](https://www.ancientfaith.com/specials/the_climacus_conference_2011/inheriting_twentieth_century_christian_humanism) (audio)
 * [*Teaching Christian Humanism*](https://www.firstthings.com/article/1996/05/teaching-christian-humanism)
@@ -31,6 +29,19 @@ Of the many "humanisms," Christian humanism is the best and one of the oldest. I
 * [*The Christian Humanist View of Being Human in the Renaissance*](http://www.theimaginativeconservative.org/2012/05/the-christian-humanist-view-of-being-human-in-the-renaissance.html)
 * [Matthew Spinka on Christian humanism]({{ site.url }}/Matthew-Spinka-Christian-Thought-1), excerpted from his book *Christian Thought*
 * [*Christianity and the Humanist Tradition*](http://www.theimaginativeconservative.org/2013/06/christianity-and-the-humanist-tradition.html) by Christopher Dawson
+
+### PROTESTANTISM & HUMANISM
+We Protestants in particular have distanced ourselves from the label of humanism, but in fact, the Reformers themselves were humanists, and natural law was essential to their vision for society.
+
+* [*The Christian Humanism of John Calvin*](https://books.google.com/books?id=WmtuDQAAQBAJ&pg=PA77) by Nicholas Wolterstorff
+* [*Reformation Humanism: Reading the Classics in the New Theology*](https://www.tandfonline.com/eprint/GuQrXUECuXnPNAn9DyaA/full) by Kirk Summers
+* [*Natural Law and the Protestant Reformation*](https://www.youtube.com/watch?v=jku3dnjQir8) (video) by J. Daryl Charles
+* [*Protestant Bias against the Natural Law: A Critique*](https://www.elca.org/JLE/Articles/317) by J. Daryl Charles
+
+### TECHNOLOGY & SOCIETY
+The expanding role of technology in our lives is more dangerous than many people suspect.
+
+* *The Rise of the Technocratic Society* (video) [Part 1](https://www.youtube.com/watch?v=xU-ZRocid1c), [Part 2](https://www.youtube.com/watch?v=nOHrLcpx4sQ) by Michael Hanby and Carlo Lancellotti
 
 ### Who are you?
 
