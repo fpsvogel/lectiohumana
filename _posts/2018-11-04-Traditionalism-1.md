@@ -2,7 +2,7 @@
 layout: post
 title: "Harry Oldmeadow: Traditionalism: Religion in the light of the Perennial Philosophy"
 subtitle: "Traditions allied under siege"
-category: "Traditionalists"
+category: "Misc."
 author: "Traditionalists"
 tags: [tradition, modernity, culture, Revelation, humanism, faith, evolutionism, East, Jonathan Pageau, Calvin]
 comments: false
