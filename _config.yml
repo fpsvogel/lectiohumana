@@ -29,7 +29,6 @@ author:
   name: Felipe Vogel
   contact:
     email:     http://scr.im/felipevogel
-    youtube: https://www.youtube.com/channel/UCn5bvbdSxoChcEmU28opUTg
     goodreads: https://www.goodreads.com/user/show/51351645-felipe-vogel
     linkedin:  https://www.linkedin.com/in/vogelfelipe
 #    github:    https://github.com/codinfox
@@ -46,8 +45,13 @@ nav:
     - '/categories/'
   Tags:
     - '/tags/'
+<<<<<<< HEAD
   Ephemeris:
     - '/ephemeris/1/'
+=======
+  Exercitia:
+    - '/exercitia/'
+>>>>>>> parent of 21ccb27... 2018-11-06
   About:          
     - '/about/'
 #  Github Project: 
