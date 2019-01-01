@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Bradley Birzer: Sanctifying the World, Pt. I"
+title: "Bradley Birzer: Sanctifying the World, I."
 subtitle: "Christopher Dawson on other cultures"
-category: "Christopher Dawson: Essays"
+category: "Misc."
 author: "Christopher Dawson"
 tags: [culture, East, West, Church]
 comments: false

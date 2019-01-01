@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Bradley Birzer: Sanctifying the World, Pt. II"
+title: "Bradley Birzer: Sanctifying the World, II."
 subtitle: "Christopher Dawson on other cultures"
-category: "Christopher Dawson: Essays"
+category: "Misc."
 author: "Christopher Dawson"
 tags: [culture, Church, education, pluralism, Erasmus, Reformation]
 comments: false

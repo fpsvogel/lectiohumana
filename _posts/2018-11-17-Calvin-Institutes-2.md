@@ -16,4 +16,4 @@ permalink: /:title
 
 The striking imagery continues. Also, these reflections on human nature apply to us as modern society as much as to us as individuals. We moderns are pleased with our fairness, our cleverness, and our niceness, but we are pleased with inferior virtues. How can we recover a fuller sense of virtue and live it out in our enervated times?
 
-<h2 class="post-source"><a href="https://books.google.com/books?id=9ThJAAAAcAAJ&pg=PA2#f=true"><i class="fas fa-book" aria-hidden="true"></i> source</a></h2>
+<h2 class="post-source"><a href="https://books.google.com/books?id=9ThJAAAAcAAJ&pg=PA2"><i class="fas fa-book" aria-hidden="true"></i> source</a></h2>

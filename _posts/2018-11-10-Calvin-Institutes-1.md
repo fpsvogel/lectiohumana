@@ -25,4 +25,4 @@ How can we make sure that we think not only in abstract propositions, but in ima
 
 Is this the meaning of the "moral imagination"?
 
-<h2 class="post-source"><a href="https://books.google.com/books?id=9ThJAAAAcAAJ&pg=PA1#f=true"><i class="fas fa-book" aria-hidden="true"></i> source</a></h2>
+<h2 class="post-source"><a href="https://books.google.com/books?id=9ThJAAAAcAAJ&pg=PA1"><i class="fas fa-book" aria-hidden="true"></i> source</a></h2>
