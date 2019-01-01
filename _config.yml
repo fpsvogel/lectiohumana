@@ -1,6 +1,6 @@
 # Site Info
 title: Lectio Humana
-tagline: 'Grappling with humanism.'
+tagline: 'Exploring classical humanism.'
 description: 'Notes on the intersection between Christian and humanist, classical and modern.'
 # baseurl: "/lanyon"
 url: http://lectiohumana.com
@@ -45,13 +45,8 @@ nav:
     - '/categories/'
   Tags:
     - '/tags/'
-<<<<<<< HEAD
   Ephemeris:
     - '/ephemeris/1/'
-=======
-  Exercitia:
-    - '/exercitia/'
->>>>>>> parent of 21ccb27... 2018-11-06
   About:          
     - '/about/'
 #  Github Project: 
@@ -67,4 +62,3 @@ plugins:
 mathjax: true # whether support mathjax
 google_analytics_token: 
 disqus_short_name: 
-
