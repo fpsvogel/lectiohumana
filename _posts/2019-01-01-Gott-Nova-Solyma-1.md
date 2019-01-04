@@ -39,7 +39,9 @@ permalink: /:title
 
 Samuel Gott's 1948 novel *Nova Solyma* is peppered thick with poetry, and I have a hunch that they play a part as important as the prose. So I'll be posting the poems, sometimes (as here) with my own translation, or I may draw from Begley's English translation linked below.
 
-In this translation I've tried to preserve the hexameter in English, like so: *BO*reas' *ICE*-chilled *BREATH* has *BLOWN* cold *RAINS* far a*WAY*. / *WIN*ter, its *TIME* now *PASSED*, moves *ON* from the *COUN*try of *JU*dah.
+In this translation I've tried to preserve the hexameter in English, like so:  
+*BO*reas' *ICE*-chilled *BREATH* has *BLOWN* cold *RAINS* far a*WAY*.  
+*WIN*ter, its *TIME* now *PASSED*, moves *ON* from the *COUN*try of *JU*dah.
 
 <h2 class="post-source"><a href="https://books.google.com/books?id=0dRcAAAAcAAJ&pg=PA1"><i class="fas fa-book" aria-hidden="true"></i> source (Latin)</a></h2>
 
