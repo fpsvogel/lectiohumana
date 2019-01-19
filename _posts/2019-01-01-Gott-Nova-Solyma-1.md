@@ -11,7 +11,7 @@ permalink: /:title
 
 > Grandinis hibernos Boreas exsolverat imbres,  
 > Brumaque Iudaei iam parte recesserat anni,  
-> Et caput abdiderat lapsum tellure sub alta.  
+> Et caput abdiderat lapsum tellure sub alta,  
 > Cum petit obliquo coeli fastigia cursu  
 > Sol pater, et lentis crudam coquit ignibus auram.  
 > Parturit omnis ager; silvaeque herbaeque recentes;  
