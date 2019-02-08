@@ -6,7 +6,7 @@ category: "Misc."
 author: "Christopher Dawson"
 tags: [culture, East, West, Church]
 comments: false
-permalink: {{ site.blogurl }}/:title
+permalink: /blog/:title
 ---
 
 I'm reading Bradley Birzer's *Sanctifying the World: The Augustinian Life and Mind of Christopher Dawson*. Here are some quotes on Dawson's approach to other cultures within the mission of the Church to sanctify the world.

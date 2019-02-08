@@ -7,7 +7,7 @@ title: Blog
   {% for post in paginator.posts %}
 	  <div class="post">
 		<h1 class="post-title">
-		  <a href="{{ site.baseurl }}{{ site.blogurl }}{{ post.url }}">
+		  <a href="{{ site.baseurl }}{{ post.url }}">
 			{{ post.subtitle }}
 		  </a>
 		</h1>
@@ -26,23 +26,17 @@ title: Blog
 		
 		<div class="sidebar-personal-info-section">
 		<p><h2 class="post-share">Share:&nbsp;
-		<a href="https://www.facebook.com/sharer/sharer.php?u={{ site.baseurl }}{{ site.blogurl }}{{ post.url }}" style="text-decoration: none; font-size: 1.2rem">
+		<a href="https://www.facebook.com/sharer/sharer.php?u={{ site.url }}{{ site.blogurl }}{{ post.url }}" style="text-decoration: none; font-size: 1.2rem">
 		  <i class="fab fa-facebook" aria-hidden="true"></i>
 		</a>&nbsp;|&nbsp;
-		<a href="https://twitter.com/home?status=Lectio%20Humana—{{ post.author }}, {{ post.subtitle }}: {{ site.baseurl }}{{ site.blogurl }}{{ post.url }}" style="text-decoration: none; font-size: 1.2rem">
+		<a href="https://twitter.com/home?status=Lectio%20Humana—{{ post.author }}, {{ post.subtitle }}: {{ site.url }}{{ site.blogurl }}{{ post.url }}" style="text-decoration: none; font-size: 1.2rem">
 		  <i class="fab fa-twitter" aria-hidden="true"></i>
 		</a>&nbsp;|&nbsp;
-		<a href="http://www.reddit.com/submit?url={{ site.baseurl }}{{ site.blogurl }}{{ post.url }}&title=Lectio%20Humana—{{ post.author }}, {{ post.subtitle }}" style="text-decoration: none; font-size: 1.2rem">
+		<a href="http://www.reddit.com/submit?url={{ site.url }}{{ site.blogurl }}{{ post.url }}&title=Lectio%20Humana—{{ post.author }}, {{ post.subtitle }}" style="text-decoration: none; font-size: 1.2rem">
 		  <i class="fab fa-reddit" aria-hidden="true"></i>
 		</a>
 		</h2>
 		</p>
-		</div>
-		
-		<div class="post-more">
-		  {% if site.disqus_short_name %}
-		  <a href="{{ site.baseurl }}{{ post.url }}#disqus_thread"> <i class="fa fa-comments" aria-hidden="true"></i>Comment</a>&nbsp;
-		  {% endif %}
 		</div>
 	  </div>
   {% endfor %}
@@ -50,15 +44,15 @@ title: Blog
 
 <div class="pagination">
   {% if paginator.next_page %}
-    <a class="pagination-item older" href="{{ site.baseurl }}/page{{paginator.next_page}}">Older</a>
+    <a class="pagination-item older" href="{{ site.baseurl }}{{ site.blogurl }}/page{{paginator.next_page}}">Older</a>
   {% else %}
     <span class="pagination-item older">Older</span>
   {% endif %}
   {% if paginator.previous_page %}
     {% if paginator.page == 2 %}
-      <a class="pagination-item newer" href="{{ site.baseurl }}/">Newer</a>
+      <a class="pagination-item newer" href="{{ site.baseurl }}{{ site.blogurl }}">Newer</a>
     {% else %}
-      <a class="pagination-item newer" href="{{ site.baseurl }}/page{{paginator.previous_page}}">Newer</a>
+      <a class="pagination-item newer" href="{{ site.baseurl }}{{ site.blogurl }}/page{{paginator.previous_page}}">Newer</a>
     {% endif %}
   {% else %}
     <span class="pagination-item newer">Newer</span>

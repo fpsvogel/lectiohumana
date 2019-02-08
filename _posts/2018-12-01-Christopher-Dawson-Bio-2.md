@@ -6,7 +6,7 @@ category: "Misc."
 author: "Christopher Dawson"
 tags: [culture, Church, education, pluralism, Erasmus, Reformation]
 comments: false
-permalink: {{ site.blogurl }}/:title
+permalink: /blog/:title
 ---
 
 More from Bradley Birzer's *Sanctifying the World: The Augustinian Life and Mind of Christopher Dawson:*
