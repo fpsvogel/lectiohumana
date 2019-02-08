@@ -6,7 +6,7 @@ category: "John Calvin"
 author: "Calvin"
 tags: [imagination, virtue]
 comments: false
-permalink: /:title
+permalink: {{ site.blogurl }}/:title
 ---
 
 > Nam primo, se nemo aspicere potest quin ad Dei, *in quo vivit et movetur,* intuitum sensus suos protinus convertat: quia minime obscurum est, dotes quibus pollemus, nequaquam a nobis esse. Immo ne id quidem ipsum quod sumus, aliud esse quam in uno Deo subsistentiam. Deinde ab his bonis quae guttatim a caelo ad nos stillant, tamquam a rivulis ad fontem deducimur. (1.1.1)

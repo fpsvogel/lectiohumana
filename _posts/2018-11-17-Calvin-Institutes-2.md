@@ -6,7 +6,7 @@ category: "John Calvin"
 author: "Calvin"
 tags: [imagination, modernity, society, virtue]
 comments: false
-permalink: /:title
+permalink: {{ site.blogurl }}/:title
 ---
 
 > Quin ex corporeo sensu propius adhuc discernere licet quantum in aestimandis animae virtutibus hallucinemur. Nam si vel terram despicimus medio die, vel intuemur quae aspectui nostro circumcirca patent, validissima perspicacissimaque acie videmur nobis praediti: at ubi in solem suspicimus, atque arrectis oculis contemplamur, vis illa quae egregie in terra valebat, tanto fulgore protinus perstringitur et confunditur, ut fateri cogamur, illud nostrum in considerandis terrenis acumen, ubi ad solem ventum est, meram esse hebetudinem. Ita et in reputandis spiritualibus nostris bonis contingit; quantisper enim extra terram non respicimus, propria iustitia, sapientia, virtute pulchre contenti, nobis suavissime blandimur, et tantum non semidei videmur; at si semel coeperimus cogitationem in Deum erigere, et expendere qualis sit, et quam exacta iustitiae, sapientiae, virtutis eius perfectio, ad cuius amussim conformari nos oportet: quod antea in nobis falso iustitiae praetextu arridebat, pro summa iniquitate mox sordescet: quod mirifice imponebat sapientiae titulo, pro extrema stultitia foetebit: quod virtutis faciem prae se ferebat, miserrima impotentia esse arguetur: adeo divinae puritati male respondet quod videtur in nobis vel absolutissimum. (1.1.2)

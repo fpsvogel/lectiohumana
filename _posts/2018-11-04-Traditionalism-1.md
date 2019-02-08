@@ -6,7 +6,7 @@ category: "Misc."
 author: "Traditionalists"
 tags: [tradition, modernity, culture, Revelation, humanism, faith, evolutionism, East, Jonathan Pageau, Calvin]
 comments: false
-permalink: /:title
+permalink: {{ site.blogurl }}/:title
 ---
 
 Choice excerpts from *Traditionalism* by Kenneth Oldmeadow. The Traditionalists, who are new to me, seem to offer a wonderful alternative to the current dichotomy between the scientific and literalist religious worldviews, where to be an intelligent person many feel like they have to abandon their religious tradition, or at least reinterpret it to death. The world of symbol, the esoteric, the value of other cultures, an incisive critique of modernity—all these are opened up by this school of thinkers. Here are some outstanding quotes.
