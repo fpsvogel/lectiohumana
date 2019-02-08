@@ -56,8 +56,8 @@ https://www.youtube.com/watch?v=AT0U5BJ19aM&list=PLqvZZdoCdlTu63N-cVAPR7WfEbkB6E
       {% for i in (0..circetitles.size) %}
       <a class="post-title" href="circeurls">
       <li>
-        circe[i]
-      <small class="post-date">{{ circedates| date: "%m/%y" }}</small>
+        {{ circetitles[i] }}
+      <small class="post-date">{{ circedates[i] | date: "%m/%y" }}</small>
       </li>
       </a>
       {% endfor %}
@@ -66,12 +66,12 @@ https://www.youtube.com/watch?v=AT0U5BJ19aM&list=PLqvZZdoCdlTu63N-cVAPR7WfEbkB6E
 
 ## Videos
 <ul>
-    <li><em>Latin, a Peculiar History:</em> A series which I hope to complete someday, based on Jürgen Leonhardt’s [“Latin: Story of a World Language”](Latin: Story of a World Language).</li>
+    <li><em>Latin, a Peculiar History:</em> A series which I hope to complete someday, based on Jürgen Leonhardt’s [“Latin: Story of a World Language”](https://www.amazon.com/Latin-Story-Language-Jürgen-Leonhardt/dp/0674659961).</li>
     <ul class="tags-expo-posts">
-      {% for i in (0..peculiartitles.size | divided_by: 3) %}
+      {% for i in (0..peculiartitles.size) %}
       <a class="post-title" href="peculiarurls[i]">
       <li>
-        peculiartitles[i]
+        {{ peculiartitles[i] }}
       </li>
       </a>
       {% endfor %}
