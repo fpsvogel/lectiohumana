@@ -1,7 +1,9 @@
 ---
 layout: page
-title: Sing the Psalms in  Classical Latin
+title: Psalmi
 ---
+
+Sing the Psalms in classical Latin! This page is a companion to the Psalm texts in [*Sursum Corda: Latin Stories and Songs of the Reformers*]({{ site.bookurl }}).
 
 #### Psalm 23 (Johnston)
 <!--- <h2 class="download-link"><a href="{{ site.url }}/download/psalms/Ps023Johnston.mp3"><i class="fa fa-download" aria-hidden="true"></i> download MP3</a></h2> --->
