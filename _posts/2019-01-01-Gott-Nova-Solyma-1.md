@@ -2,9 +2,7 @@
 layout: post
 title: "Songs of Nova Solyma, I."
 subtitle: "Grandinis hibernos"
-category: "Nova Solyma"
-author: "Christopher Dawson"
-tags: [poetry, nature]
+tags: [Nova Solyma, translation, poetry]
 comments: false
 permalink: /blog/:title
 ---
