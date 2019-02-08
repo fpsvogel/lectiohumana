@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Songs of Nova Solyma, I."
-subtitle: "Grandinis hibernos"
+title: "Grandinis hibernos"
+subtitle: "Songs of Nova Solyma, I."
 tags: [Nova Solyma, translation, poetry]
 comments: false
 permalink: /blog/:title
