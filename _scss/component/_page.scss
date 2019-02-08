@@ -30,5 +30,13 @@
 	margin-top: 0rem;
 	margin-bottom: 0rem;
   }	
+  
+  .post-date {
+      display: inline-block;
+      font-size: 80%;
+      color: $post-date-color;
+      margin: 0;
+      padding: 0;
+    }
 }
 

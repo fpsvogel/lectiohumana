@@ -6,7 +6,7 @@ category: "Nova Solyma"
 author: "Christopher Dawson"
 tags: [poetry, nature]
 comments: false
-permalink: {{ site.blog }}/:title
+permalink: /blog/:title
 ---
 
 > Grandinis hibernos Boreas exsolverat imbres,  
