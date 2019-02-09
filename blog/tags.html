@@ -26,7 +26,7 @@ title: Tags
 			{% assign size = count %}
 		{% endif %}
 		<span class="tag-size-{{ size }}">
-			<a class="tag-link" href="/blog/tag/{{ tag | slugify }}" rel="tag">{{ tag }}</a> ({{ count }})
+			<a class="post-tag" href="#{{ tag | slugify }}">{{ tag }} <sup>{{ count }}</sup></a>
 		</span>
 	{% endfor %}
   <hr/>
@@ -38,7 +38,7 @@ title: Tags
       {% for post in tag[1] %}
         <a class="post-title" href="{{ site.baseurl }}{{ post.url }}">
       <li>
-        {{ post.title }}: {{ post.subtitle }}
+        {{ post.title }}: {{ post.subtitle }} {% if post.external_url %}<i class="fa fa-external-link" aria-hidden="true"></i>{% endif %}
       <small class="post-date">{{ post.date | date_to_string }}</small>
       </li>
       </a>
