@@ -55,7 +55,6 @@ html {
 @media (min-width: 38em) {
   html {
     font-size: 20px;
-	line-height: 1.1rem;
   }
 }
 
@@ -126,14 +125,6 @@ dt {
 }
 dd {
   margin-bottom: .5rem;
-}
-
-ul > li {
-    margin-bottom: .5rem;
-}
-
-ul > li li {
-    margin-bottom: 0rem;
 }
 
 /* Misc */

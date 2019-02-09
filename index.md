@@ -7,14 +7,21 @@ title: Home
 - [*Sursum Corda: Latin Stories and Songs of the Reformers*]({{ site.bookurl }}) – An intermediate Latin reader with early Protestant texts. Still in the proof of concept stage.
 
 # Writings
-{% assign localposts = site.posts | where:"external_url",nil %}
 {% assign circeposts = site.posts | where:"external_site","CiRCE Institute" %}
-* Latest at this blog: [{{ site.localposts[0].title }}]({{ site.localposts[0].url }})<small class="post-date">{{ site.localposts[0].date| date: "%m/%y" }}</small>
-* Mere Orthodoxy: [“The Latin and Reformed Imagination”](https://mereorthodoxy.com/latin-reformed-imagination/)<small class="post-date">01/19</small>
-* On classical education at the CiRCE Institute
-	{% for post in circeposts %}
-    - [“{{ post.title }}”]({{ post.external_url }})<small class="post-date">{{ post.date| date: "%m/%y" }}</small>
+<ul>
+{% for post in site.posts %}
+{% unless post.external_url %}
+<li>Latest at this blog: [{{ post.title }}]({{ post.url }})<small class="post-date">{{ post.date| date: "%m/%y" }}</small></li>
+{% endunless %}
+{% endfor %}
+<li>Mere Orthodoxy: [“The Latin and Reformed Imagination”](https://mereorthodoxy.com/latin-reformed-imagination/)<small class="post-date">01/19</small></li>
+<li>On classical education at the CiRCE Institute</li>
+	<ul>
+	{% for circepost in circeposts %}
+    <li>[“{{ circepost.title }}”]({{ circepost.external_url }})<small class="post-date">{{ circepost.date| date: "%m/%y" }}</small></li>
 	{% endfor %}
+	</ul>
+</ul>
 
 # Videos
 * *Latin, a Peculiar History:* A series which I hope to complete someday, based on Jürgen Leonhardt’s [“Latin: Story of a World Language”](Latin: Story of a World Language).
