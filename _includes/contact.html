@@ -5,10 +5,11 @@
 <p> {{ include.text }} 
 {% for contact in site.author.contact %}
 {% assign iconname = contact[0] %}
-{% assign fa = 'fab fa' %}
-{% if contact[0] == 'email' %}
+{% assign fa = 'fa fa' %}
+{% if iconname == 'email' %}
 {% assign iconname = 'envelope' %}
-{% assign fa = 'fas fa' %}
+{% elseif iconname == 'facebook' %}
+{% assign iconname = 'facebook-official' %}
 {% endif %}
 <a href="{{ contact[1] }}" style="text-decoration: none; font-size: 1.0rem">
   <i class="{{ fa }}-{{ iconname }}" aria-hidden="true"></i>

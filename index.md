@@ -7,12 +7,15 @@ title: Home
 - [*Sursum Corda: Latin Stories and Songs of the Reformers*]({{ site.bookurl }}) – An intermediate Latin reader with early Protestant texts. Still in the proof of concept stage.
 
 # Writings
-{% assign localposts = site.posts | where:"external_url",nil %}
+{% for post in site.posts %}
+	{% unless post.external_url %}
+		{% assign recentpost = post %}
+	{% endunless %}
+{% endfor %}
 {% assign circeposts = site.posts | where:"external_site","CiRCE Institute" %}
-* Latest at this blog: [{{ site.localposts[0].title }}]({{ site.localposts[0].url }})<small class="post-date">{{ site.localposts[0].date| date: "%m/%y" }}</small>
+* Latest at this blog: [{{ recentpost.title }}]({{ recentpost.url }})<small class="post-date">{{ site.recentpost.date| date: "%m/%y" }}</small>
 * Mere Orthodoxy: [“The Latin and Reformed Imagination”](https://mereorthodoxy.com/latin-reformed-imagination/)<small class="post-date">01/19</small>
-* On classical education at the CiRCE Institute
-	{% for post in circeposts %}
+* On classical education at the CiRCE Institute{% for post in circeposts %}
     - [“{{ post.title }}”]({{ post.external_url }})<small class="post-date">{{ post.date| date: "%m/%y" }}</small>
 	{% endfor %}
 
