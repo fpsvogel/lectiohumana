@@ -14,7 +14,6 @@
   @media (min-width: 38rem) {
     font-size: .8rem;
 	h1 { font-size: 1.4rem; }
-	line-height: 1.1rem;
   }
 
   .post-title {
@@ -68,6 +67,12 @@
     margin-top: .5em;
     line-height: 1.4rem;
   }
+  
+    @media (min-width: 38rem) {
+		article {
+			line-height: 1.1rem;
+		}
+	}
 }
 
 /* Related posts */
