@@ -4,12 +4,31 @@ title: Tags
 ---
 
 <div class="tags-expo">
-  <div class="tags-expo-list">
+<!--  <div class="tags-expo-list">
     {% assign sorted_tags = (site.tags | sort:0) %}
     {% for tag in sorted_tags %}
     <a href="#{{ tag[0] | slugify }}" class="post-tag">{{ tag[0] }} <sup>{{ site.tags[tag[0]].size }}</sup></a>
     {% endfor %}
-  </div>
+  </div> -->
+	{% capture tags %}
+	  {% for tag in site.tags %}
+		{{ tag[1].size | plus: -10000 }}###{{ tag[0] | replace: ' ', '##' }}###{{ tag[1].size }}
+	  {% endfor %}
+	{% endcapture %}
+	{% assign sorted_tags = tags | split: ' ' | sort %}
+	{% for sorted_tag in sorted_tags %}
+		{% assign items = sorted_tag | split: '###' %}
+		{% assign tag = items[1] | replace: '##', ' ' %}
+		{% assign count = items[2] | plus: 0 %}
+		{% if count > 5 %}
+			{% assign size = 5 %}
+		{% else %}
+			{% assign size = count %}
+		{% endif %}
+		<span class="tag-size-{{ size }}">
+			<a class="tag-link" href="/blog/tag/{{ tag | slugify }}" rel="tag">{{ tag }}</a> ({{ count }})
+		</span>
+	{% endfor %}
   <hr/>
   <div class="tags-expo-section">
     {% assign sorted_tags = (site.tags | sort:0) %}
@@ -19,7 +38,7 @@ title: Tags
       {% for post in tag[1] %}
         <a class="post-title" href="{{ site.baseurl }}{{ post.url }}">
       <li>
-        {{ post.title }}
+        {{ post.title }}: {{ post.subtitle }}
       <small class="post-date">{{ post.date | date_to_string }}</small>
       </li>
       </a>
