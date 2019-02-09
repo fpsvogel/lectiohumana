@@ -43,4 +43,4 @@ In this translation I've tried to preserve the hexameter in English, like so:
 
 <h2 class="post-source"><a href="https://books.google.com/books?id=0dRcAAAAcAAJ&pg=PA1"><i class="fa fa-book" aria-hidden="true"></i> source (Latin)</a></h2>
 
-<h2 class="post-source"><a href="https://archive.org/details/novsolymaidealci01novsuoft/page/77"><i class="fas fa-book" aria-hidden="true"></i> source (Begley's English translation)</a></h2>
+<h2 class="post-source"><a href="https://archive.org/details/novsolymaidealci01novsuoft/page/77"><i class="fa fa-book" aria-hidden="true"></i> source (Begley's English translation)</a></h2>
