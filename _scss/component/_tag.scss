@@ -27,6 +27,27 @@
     height:72px; /* fixed header height*/
     margin:-72px 0 0; /* negative fixed header height */
   }
+  
+	.tag-size-5 {
+		font-size: 1.25rem;
+	}
+
+	.tag-size-4 {
+		font-size: 1.10rem;
+	}
+
+	.tag-size-3 {
+		font-size: 0.95rem;
+	}
+
+	.tag-size-2 {
+		font-size: 0.80rem;
+	}
+
+	.tag-size-1 {
+		font-size: 0.65rem;
+	}
+	
   .tags-expo-list {
     @media (min-width: 38em) {
       font-size: 0.9rem;
