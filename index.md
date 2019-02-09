@@ -26,7 +26,7 @@ title: Home
 
 # Videos
 <ul>
-<li>*Latin, a Peculiar History:* A series which I hope to complete someday, based on Jürgen Leonhardt’s <a href="https://www.amazon.com/dp/0674659961">“Latin: Story of a World Language”</a>.</li>
+<li><em>Latin, a Peculiar History:</em> A series which I hope to complete someday, based on Jürgen Leonhardt’s <a href="https://www.amazon.com/dp/0674659961">“Latin: Story of a World Language”</a>.</li>
     <ul>
 	<li><a href="https://www.youtube.com/watch?v=AT0U5BJ19aM&list=PLqvZZdoCdlTu63N-cVAPR7WfEbkB6EEoE">“Do you REALLY know Latin?”</a></li>
     <li><a href="https://www.youtube.com/watch?v=JdFAFfYdkoQ&list=PLqvZZdoCdlTu63N-cVAPR7WfEbkB6EEoE">“Is Latin dead?”</a></li>
