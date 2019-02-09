@@ -36,21 +36,12 @@ title: Tags
     <h2 id="{{ tag[0] | slugify }}">{{ tag[0] }}</h2>
     <ul class="tags-expo-posts">
       {% for post in tag[1] %}
-	  {% if post.external_url %}
-      <a class="post-title" href="{{ site.baseurl }}{{ post.external_url }}">
+        <a class="post-title" href="{{ site.baseurl }}{{ post.url }}">
       <li>
-        {{ post.title }}: {{ post.subtitle }} <i class="fa fa-external-link" aria-hidden="true"></i>
-      <small class="post-date">{{ post.date | date: "%m/%y" }}</small>
+        {{ post.title }}: {{ post.subtitle }} {% if post.external_url %}<i class="fa fa-external-link" aria-hidden="true"></i>{% endif %}
+      <small class="post-date">{{ post.date | date_to_string }}</small>
       </li>
       </a>
-	  {% else %}
-	  <a class="post-title" href="{{ site.baseurl }}{{ post.url }}">
-      <li>
-        {{ post.title }}: {{ post.subtitle }}
-      <small class="post-date">{{ post.date | date: "%m/%y" }}</small>
-      </li>
-      </a>
-	  {% endif %}
       {% endfor %}
     </ul>
     {% endfor %}
