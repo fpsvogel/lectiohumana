@@ -63,12 +63,6 @@
     margin-top: .5em;
     line-height: 1.4rem;
   }
-  
-  @media (min-width: 38rem) {
-	  article {
-		line-height: 1.1rem;
-	  }
-  }
 }
 
 /* Related posts */
@@ -99,8 +93,8 @@
 .latin {
   padding: .5rem 1rem;
   margin: .8rem 0;
-  color: $theme-color;
-  border-left: .25rem solid #e56060;
+  color: #7a7a7a;
+  border-left: .25rem solid $theme-color;
 }
 .latin p:last-child {
   margin-bottom: 0;
