@@ -17,8 +17,8 @@ title: Home
 <li>Mere Orthodoxy: [“The Latin and Reformed Imagination”](https://mereorthodoxy.com/latin-reformed-imagination/)<small class="post-date">01/19</small></li>
 <li>On classical education at the CiRCE Institute</li>
 	<ul>
-	{% for post in circeposts %}
-    <li>[“{{ post.title }}”]({{ post.external_url }})<small class="post-date">{{ post.date| date: "%m/%y" }}</small></li>
+	{% for circepost in circeposts %}
+    <li>[“{{ circepost.title }}”]({{ circepost.external_url }})<small class="post-date">{{ circepost.date| date: "%m/%y" }}</small></li>
 	{% endfor %}
 	</ul>
 </ul>
