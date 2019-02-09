@@ -12,7 +12,6 @@ title: Home
 {% for post in site.posts %}
 {% unless post.external_url %}
 <li>Latest at this blog: [{{ post.title }}]({{ post.url }})<small class="post-date">{{ post.date| date: "%m/%y" }}</small></li>
-{% break %}
 {% endunless %}
 {% endfor %}
 <li>Mere Orthodoxy: [“The Latin and Reformed Imagination”](https://mereorthodoxy.com/latin-reformed-imagination/)<small class="post-date">01/19</small></li>
