@@ -8,6 +8,9 @@
 {% if contact[0] == 'email' %}
 {% assign iconname = 'envelope' %}
 {% endif %}
+{% if contact[0] == 'facebook' %}
+{% assign iconname = 'facebook-official' %}
+{% endif %}
 <a href="{{ contact[1] }}" style="text-decoration: none; font-size: 1.0rem">
   <i class="fa fa-{{ iconname }}" aria-hidden="true"></i>
 </a>
