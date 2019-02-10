@@ -1,6 +1,6 @@
 # Site Info
 title: Lectio Humana
-tagline: 'A homo erectus fossil was stolen from a museum. Homo ereptus.'
+# tagline: 'A homo erectus fossil was stolen from a museum. Homo ereptus.'
 description: 'An exploration of the Christian classical humanist tradition.'
 # baseurl: "/lanyon"
 url: http://lectiohumana.com
@@ -20,7 +20,7 @@ excerpt_separator: "<!-- more -->"
 sass:
   style: compressed
   sass_dir: _scss    
-paginate: 3
+paginate: 5
 paginate_path: '/blog/page:num'
 permalink: pretty
 
@@ -48,7 +48,7 @@ nav:
     - { Tags: '/blog/tags/' }
   Psalmi:
     - '/psalmi/'
-  Ephemeris:
+  יומן כפול:
     - '/ephemeris/1/'
   About:          
     - '/about/'
