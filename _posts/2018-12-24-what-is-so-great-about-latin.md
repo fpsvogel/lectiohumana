@@ -4,7 +4,7 @@ title: "What Is So Great about Latin?"
 subtitle: "The embodiment of an ideal"
 external_url: https://www.circeinstitute.org/blog/what-so-great-about-latin
 external_site: "CiRCE Institute"
-tags: [Latin]
+tags: [Latin, classical tradition]
 ---
 
 Do we *have* to do Latin?” Students gloomily contemplate its grammar charts, teachers of other subjects wonder what it’s doing in the curriculum, and homeschooling parents find it a constant thorn in their sides. Do we study Latin as a mental exercise, like math? To improve our English? To get a higher SAT score? Many of us aren’t sure, and we wish we could do something useful instead of studying a dead language.

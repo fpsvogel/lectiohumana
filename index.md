@@ -8,6 +8,7 @@ title: Home
 
 # Writings
 {% assign circeposts = site.posts | where:"external_site","CiRCE Institute" %}
+{% assign davenantposts = site.posts | where:"external_site","The Davenant Institute" %}
 <ul>
 {% for post in site.posts %}
 {% unless post.external_url %}
@@ -16,6 +17,13 @@ title: Home
 {% endunless %}
 {% endfor %}
 <li>Mere Orthodoxy: <a href="https://mereorthodoxy.com/latin-reformed-imagination/">“The Latin and Reformed Imagination”</a><small class="post-date">01/19</small></li>
+<li>On post-Reformation Latin at the Davenant Institute:
+	<ul>
+	{% for davenantpost in davenantposts %}
+    <li><a href="{{ davenantpost.external_url }}">{{ davenantpost.title }}</a><small class="post-date">{{ davenantpost.date| date: "%m/%y" }}</small></li>
+	{% endfor %}
+	</ul>
+</li>
 <li>On classical education at the CiRCE Institute:
 	<ul>
 	{% for circepost in circeposts %}
