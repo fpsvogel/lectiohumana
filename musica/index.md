@@ -3,7 +3,7 @@ layout: page
 title: Musica poeseos
 ---
 
-Sing classical Latin poetry! See the referenced pages for the text and background of each poem. These tunes can be used to sing any other poetry of the same meter (indicated in parentheses).
+Sing classical Latin poetry! Follow the links for the text and background of each poem. These tunes can be used to sing any other poetry of the same meter (indicated in parentheses).
 
 #### De Montenay: four emblems (elegiac)
 <musicp>
@@ -14,4 +14,4 @@ Sing classical Latin poetry! See the referenced pages for the text and backgroun
 </musicp>
 
 Originally appeared in <a href="https://davenantinstitute.org/singing-pictures-georgette-de-montenays-emblems/">
-			<em>Singing Pictures: Georgette de Montenay’s Emblems <i class="fa fa-external-link" aria-hidden="true"></a>
+			<em>Singing Pictures: Georgette de Montenay’s Emblems</em> <i class="fa fa-external-link" aria-hidden="true"></i></a>
