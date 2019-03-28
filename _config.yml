@@ -46,8 +46,8 @@ nav:
   Blog:           
     - '/blog/'
     - { Tags: '/blog/tags/' }
-  Psalmi:
-    - '/psalmi/'
+  Musica:
+    - '/musica/'
   יומן כפול:
     - '/ephemeris/1/'
   About:          
