@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Singing Pictures"
-subtitle: "Georgette de Montenay’s Emblems"
+title: "Singing Pictures: Georgette de Montenay’s Emblems"
+subtitle: "Truth in Poetry, Image, and Song"
 external_url: https://davenantinstitute.org/singing-pictures-georgette-de-montenays-emblems/
 external_site: "The Davenant Institute"
 tags: [Georgette de Montenay, Protestants, Latin, song]
