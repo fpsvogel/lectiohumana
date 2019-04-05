@@ -7,10 +7,10 @@ Sing classical Latin poetry! Follow the links for the text and background of eac
 
 #### De Montenay: emblems (elegiac)
 <div class="musicp">
-<p>"{{ site.url }}/musica/12.1 Caelica suspirans.mp3"</p>
-<p>"{{ site.url }}/musica/12.2 Nunc seges est.mp3"</p>
-<p>"{{ site.url }}/musica/23.1 Assyriae concussa.mp3"</p>
-<p>"{{ site.url }}/musica/23.2 Fossores operi.mp3"</p>
+<p>{{ site.url }}/musica/12.1-Caelica-suspirans.mp3</p>
+<p>{{ site.url }}/musica/12.2-Nunc-seges-est.mp3</p>
+<p>{{ site.url }}/musica/23.1-Assyriae-concussa.mp3</p>
+<p>{{ site.url }}/musica/23.2-Fossores-operi.mp3</p>
 </div>
 
 Originally appeared in <a href="https://davenantinstitute.org/singing-pictures-georgette-de-montenays-emblems/">
@@ -18,8 +18,8 @@ Originally appeared in <a href="https://davenantinstitute.org/singing-pictures-g
 
 #### Fabricius: hymns (iambic dimeter)
 <div class="musicp">
-<p>"{{ site.url }}/musica/Beate Patris Spiritus.mp3"</p>
-<p>"{{ site.url }}/musica/Heu quale nunc spectaculum.mp3"</p>
+<p>{{ site.url }}/musica/Beate-Patris-Spiritus.mp3</p>
+<p>{{ site.url }}/musica/Heu-quale-nunc-spectaculum.mp3</p>
 </div>
 
 Originally appeared in <a href="https://davenantinstitute.org/latin-hymns-reformed/">

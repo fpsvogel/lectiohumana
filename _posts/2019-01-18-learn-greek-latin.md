@@ -4,7 +4,7 @@ title: "The Classical Polyglot"
 subtitle: "Everything You Need to Start Learning Latin and Greek"
 external_url: https://www.circeinstitute.org/blog/classical-polyglot-everything-you-need-start-learning-latin-and-greek
 external_site: "CiRCE Institute"
-tags: [Latin, Greek, language learning]
+tags: [language learning]
 ---
 
 Latin and Greek are the bane of many a classical self-educator; as we adult latecomers play catch-up to get the classical education we weren’t lucky enough to have in school, it’s hard enough to find time to read Homer and Augustine in translation, let alone the original. To learn the classical languages seems simply out of our reach.

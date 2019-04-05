@@ -2,7 +2,7 @@
 layout: post
 title: "Grandinis hibernos"
 subtitle: "Songs of Nova Solyma, I."
-tags: [Nova Solyma, Latin, translation]
+tags: [Nova Solyma, Renaissance, translation]
 ---
 
 > Grandinis hibernos Boreas exsolverat imbres,  
