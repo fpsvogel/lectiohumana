@@ -48,8 +48,8 @@ nav:
     - { Tags: '/blog/tags/' }
   Musica:
     - '/musica/'
-  יומן כפול:
-    - '/ephemeris/1/'
+#  יומן כפול:
+#    - '/ephemeris/1/'
   About:          
     - '/about/'
 #  Github Project: 

@@ -5,7 +5,7 @@ title: Musica poeseos
 
 Sing classical Latin poetry! Follow the links for the text and background of each poem. These tunes can be used to sing any other poetry in the same meter (indicated in parentheses).
 
-#### De Montenay: emblems (elegiac)
+#### De Montenay: emblems (elegiacs)
 <div class="musicp">
 <p>{{ site.url }}/musica/12.1-Caelica-suspirans.mp3</p>
 <p>{{ site.url }}/musica/12.2-Nunc-seges-est.mp3</p>
@@ -24,3 +24,8 @@ Originally appeared in <a href="https://davenantinstitute.org/singing-pictures-g
 
 Originally appeared in <a href="https://davenantinstitute.org/latin-hymns-reformed/">
 			<em>Latin Hymns Reformed</em> <i class="fa fa-external-link" aria-hidden="true"></i></a>
+			
+#### Ross: Christias (dactylic hexameter)
+<div class="musicp">
+<p>{{ site.url }}/musica/Christias-1.1-9.mp3</p>
+</div>
