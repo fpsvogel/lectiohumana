@@ -4,7 +4,7 @@ title: Home
 ---
 
 # Book
-- [*Sursum Corda: Latin Stories and Songs of the Reformers*]({{ site.bookurl }}) – An intermediate Latin reader with early Protestant texts. Still in the proof of concept stage.
+- [*Stories and Songs in Protestant Latin*]({{ site.bookurl }}) – An intermediate Latin reader and anthology of early Protestant texts. Still in the proof of concept stage.
 
 # Writings
 {% assign circeposts = site.posts | where:"external_site","CiRCE Institute" %}
