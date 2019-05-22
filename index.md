@@ -10,20 +10,20 @@ title: Home
 {% assign circeposts = site.posts | where:"external_site","CiRCE Institute" %}
 {% assign davenantposts = site.posts | where:"external_site","The Davenant Institute" %}
 <ul>
-{% for post in site.posts %}
-{% unless post.external_url %}
-<li>Latest here: <a href="{{ post.url }}">{{ post.title }}: {{ post.subtitle }}</a><small class="post-date">{{ post.date| date: "%m/%y" }}</small></li>
-{% break %}
-{% endunless %}
-{% endfor %}
-<li>Mere Orthodoxy: <a href="https://mereorthodoxy.com/latin-reformed-imagination/">“The Latin and Reformed Imagination”</a><small class="post-date">01/19</small></li>
-<li>On post-Reformation Latin at the Davenant Institute:
+<li>On Neo-Latin writings of Protestants, at the Davenant Institute:
 	<ul>
 	{% for davenantpost in davenantposts %}
     <li><a href="{{ davenantpost.external_url }}">{{ davenantpost.title }}</a><small class="post-date">{{ davenantpost.date| date: "%m/%y" }}</small></li>
 	{% endfor %}
 	</ul>
 </li>
+<li>Mere Orthodoxy: <a href="https://mereorthodoxy.com/latin-reformed-imagination/">“The Latin and Reformed Imagination”</a><small class="post-date">01/19</small></li>
+{% for post in site.posts %}
+{% unless post.external_url %}
+<li>The latest on this blog: <a href="{{ post.url }}">{{ post.title }}: {{ post.subtitle }}</a><small class="post-date">{{ post.date| date: "%m/%y" }}</small></li>
+{% break %}
+{% endunless %}
+{% endfor %}
 <li>On classical education at the CiRCE Institute:
 	<ul>
 	{% for circepost in circeposts %}
